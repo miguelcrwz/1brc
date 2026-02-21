@@ -1,0 +1,7002 @@
+Rio de Janeiro;25.5
+São Paulo;18.7
+New York;-7.5Amsterdam;13.4
+Chennai;-26.6
+Jakarta;13.3
+Chennai;12.0
+Colombo;-5.0
+Stockholm;1.2
+Zurich;16.1
+Houston;-20.8
+Denver;-6.1
+Cologne;-11.6
+Caracas;45.0
+Vientiane;-20.9
+Manchester;41.3
+Damascus;34.4
+Chennai;8.7
+Munich;-9.5
+Sanaa;-28.5
+Buenos Aires;-16.9
+Rio de Janeiro;-26.0
+Singapore;-3.9
+Bangkok;43.6
+London;2.7
+Beirut;14.6
+Lagos;-4.5
+New York;19.3
+Sydney;5.1
+Dushanbe;25.9
+Cologne;11.8
+Edinburgh;-28.0
+Paris;3.6
+Delhi;-22.9
+Busan;-16.7
+Bangalore;-23.9
+Seville;17.6
+Hong Kong;30.7
+Naples;-19.6
+Dallas;20.4
+Yangon;20.8
+Phnom Penh;32.1
+Lisbon;24.0
+Amman;36.3
+Stockholm;-15.8
+Auckland;24.7
+London;32.7
+Geneva;-1.9
+Stuttgart;-0.1
+Toronto;-2.0
+Lisbon;19.5
+Los Angeles;-18.1
+Turin;39.5
+Quito;-6.3
+Oslo;-0.8
+Bishkek;-7.5
+Brasília;-28.6
+Beirut;44.6
+São Paulo;21.5
+Jakarta;-1.5
+Dhaka;28.8
+Ho Chi Minh City;30.1
+Chicago;5.5
+Glasgow;33.6
+Baghdad;-17.7
+Seoul;18.2
+Phoenix;19.0
+Pyongyang;-19.8
+Porto Alegre;-15.8
+Dublin;-23.7
+Warsaw;10.0
+Stockholm;10.2
+Miami;15.5
+Curitiba;-20.7
+Turin;-5.3
+Dublin;-5.2
+Bogotá;19.1
+Vancouver;37.6
+Dallas;34.7
+Kathmandu;33.2
+Warsaw;25.7
+Birmingham;-9.3
+Pyongyang;1.5
+Recife;-15.7
+Geneva;25.1
+Prague;-4.4
+Miami;13.7
+Cape Town;42.1
+Cape Town;21.2
+Caracas;29.1
+Boston;30.4
+Tokyo;-26.5
+Ulaanbaatar;14.9
+Vienna;-23.8
+Busan;4.0
+Colombo;19.6
+Belém;-4.9
+Beijing;-14.5
+Ulaanbaatar;11.0
+Amman;43.6
+Pyongyang;-21.4
+Tokyo;41.9
+Porto Alegre;35.2
+Naples;4.9
+Amsterdam;-2.9
+Guadalajara;32.9
+Brasília;-27.9
+Denver;-1.2
+Oslo;35.5
+Milan;2.8
+Stuttgart;18.7
+Melbourne;-1.7
+Vienna;-17.5
+Jerusalem;-12.7
+Caracas;-29.1
+Oslo;26.5
+Belém;26.5
+Moscow;-18.7
+Warsaw;-1.8
+Brasília;13.1
+Las Vegas;18.0
+Kuwait City;-17.7
+Sydney;-16.4
+Valencia;-13.4
+Budapest;36.3
+Stuttgart;5.9
+Cape Town;40.0
+Bishkek;21.5
+Sanaa;15.7
+Brussels;-24.5
+Cairo;4.1
+Ho Chi Minh City;0.5
+Vienna;30.4
+Guadalajara;-18.1
+Frankfurt;12.1
+Hong Kong;22.5
+New York;0.8
+Quito;19.4
+Manaus;-3.9
+Cairo;18.8
+Karachi;-21.7
+Paris;24.7
+Helsinki;14.3
+Bishkek;4.8
+Fortaleza;26.5
+Atlanta;10.9
+Pyongyang;-5.6
+Prague;36.2
+Las Vegas;31.3
+Stockholm;-15.9
+Porto;-12.0
+Ankara;-26.4
+Busan;12.5
+Chennai;-24.0
+Ho Chi Minh City;-12.1
+Bangalore;6.4
+Zurich;-15.9
+Dushanbe;33.8
+Belo Horizonte;40.6
+Geneva;-28.5
+Dubai;18.0
+Bangkok;14.7
+Colombo;30.4
+Hamburg;-12.8
+Melbourne;31.2
+Manaus;31.6
+Portland;6.2
+Manchester;19.4
+London;25.2
+Austin;-9.0
+Denver;-3.0
+Boston;15.3
+Stockholm;43.0
+Manchester;1.1
+Paris;27.0
+Quito;16.5
+Chicago;23.9
+Tehran;-8.7
+Ho Chi Minh City;28.7
+Manaus;30.9
+Kolkata;21.7
+Istanbul;-19.0
+Rio de Janeiro;-5.4
+Monterrey;-24.0
+Prague;34.9
+Rio de Janeiro;-28.8
+Cairo;-12.6
+Portland;26.3
+Cairo;24.5
+Toronto;41.0
+Geneva;10.5
+Berlin;-8.2
+Lagos;3.2
+Austin;42.8
+Denver;2.0
+Reykjavik;30.6
+Kabul;33.5
+Tehran;-12.0
+Austin;-29.6
+Hamburg;-3.3
+Goiânia;-17.5
+Berlin;36.7
+Helsinki;10.8
+Hong Kong;22.0
+Bangkok;9.1
+Vientiane;31.5
+Moscow;-20.1
+Riyadh;-17.3
+Doha;-18.3
+Cairo;-18.9
+Curitiba;5.7
+Jerusalem;25.7
+Berlin;43.1
+Chennai;0.5
+Dublin;-10.1
+Delhi;20.0
+Birmingham;-1.9
+Hanoi;-21.1
+Montreal;5.4
+Quito;42.8
+Brasília;-22.4
+Vancouver;31.7
+Goiânia;-15.0
+Muscat;4.8
+Ho Chi Minh City;26.9
+Stuttgart;33.2
+Sydney;22.5
+Caracas;36.9
+Kuwait City;-19.3
+Belém;-5.7
+Nairobi;12.5
+Curitiba;-25.3
+Dhaka;31.9
+Mumbai;40.1
+Karachi;18.1
+Athens;-10.2
+Lisbon;43.2
+Delhi;33.7
+Recife;28.8
+Amsterdam;-0.0
+Nairobi;40.0
+Nairobi;18.2
+Santiago;16.7
+Manaus;19.8
+Phoenix;29.1
+Kuwait City;-13.2
+Chicago;33.2
+Zurich;41.7
+Amsterdam;23.8
+Vienna;-17.4
+Lisbon;-23.1
+Copenhagen;15.4
+Bishkek;36.7
+Kabul;9.4
+Porto Alegre;-12.3
+Colombo;23.0
+Dhaka;38.7
+Doha;41.7
+Tashkent;-7.2
+Seoul;-3.4
+Kabul;43.0
+Melbourne;-1.9
+Riyadh;21.5
+Reykjavik;-11.8
+Denver;1.8
+Helsinki;-9.0
+Manchester;-25.1
+Florence;-6.8
+Boston;11.5
+Liverpool;17.1
+Phoenix;0.2
+Zurich;-12.0
+Fortaleza;-24.4
+Delhi;10.8
+Budapest;41.9
+Boston;-29.9
+Austin;42.2
+Recife;23.3
+Bishkek;-12.6
+Chicago;20.2
+Sydney;-26.4
+Doha;22.5
+Toronto;-21.1
+Fortaleza;-2.7
+Lima;44.0
+Brussels;38.5
+Denver;-15.2
+Liverpool;23.1
+Caracas;5.0
+Rome;-2.3
+Seville;-1.2
+San Francisco;31.9
+Dallas;-29.8
+Geneva;0.5
+Baghdad;44.7
+Rome;-16.4
+Hong Kong;-22.2
+Kuwait City;35.3
+Hong Kong;-20.1
+Belém;-17.2
+Ashgabat;-13.9
+Istanbul;-24.6
+Bogotá;43.2
+Mumbai;36.4
+Porto Alegre;-4.2
+Moscow;26.5
+Florence;-8.0
+Portland;10.1
+Birmingham;-19.6
+Manila;-6.3
+Recife;36.3
+Frankfurt;33.6
+Milan;11.9
+Montreal;24.8
+Damascus;38.1
+Sanaa;-1.2
+Athens;-1.8
+Busan;21.7
+Valencia;29.5
+Busan;-28.0
+Portland;-5.4
+Manaus;35.5
+Fortaleza;-13.3
+Seattle;-23.6
+Lagos;19.0
+Karachi;-25.8
+Warsaw;14.1
+Fortaleza;44.3
+Kabul;-14.0
+Stuttgart;-26.3
+Beijing;-26.4
+Manchester;-1.4
+Amman;-5.0
+Warsaw;14.3
+Manchester;8.6
+Recife;-13.7
+Karachi;-5.3
+Melbourne;22.0
+Buenos Aires;31.9
+Shanghai;-21.2
+Miami;-1.7
+Athens;10.4
+Lima;26.5
+Auckland;43.8
+Goiânia;14.3
+Cape Town;23.9
+Porto Alegre;36.8
+Atlanta;18.2
+Berlin;-1.5
+Dallas;-25.6
+Milan;-9.1
+Bangkok;15.2
+Manchester;31.0
+Dallas;19.6
+Colombo;36.2
+Shanghai;-7.3
+Seville;1.0
+Rio de Janeiro;-16.6
+Buenos Aires;25.8
+Dallas;30.5
+Tashkent;1.6
+Barcelona;-12.7
+Caracas;-6.4
+Glasgow;-3.5
+Porto;1.6
+Seoul;-10.0
+Ulaanbaatar;38.2
+Stuttgart;-13.5
+Valencia;15.4
+Jerusalem;11.1
+Turin;5.0
+Vancouver;-4.7
+Recife;3.9
+Istanbul;-8.0
+Kuala Lumpur;20.8
+São Paulo;24.4
+Brussels;-18.0
+Kuala Lumpur;27.5
+Vientiane;44.6
+Damascus;44.1
+Ankara;-6.3
+São Paulo;26.2
+Lima;-4.5
+Lima;-1.9
+Denver;36.2
+Goiânia;-29.8
+Atlanta;5.9
+Cape Town;24.3
+Shanghai;-12.2
+Kathmandu;28.9
+Phoenix;24.6
+Manaus;28.7
+Jakarta;30.5
+Kolkata;36.0
+Colombo;7.7
+Yangon;37.8
+Kathmandu;33.1
+Amman;12.4
+New York;26.4
+Stuttgart;30.5
+Miami;-7.2
+Seoul;-29.5
+Brussels;-1.3
+Paris;7.5
+Frankfurt;37.2
+Quito;23.0
+Ulaanbaatar;-17.3
+Jerusalem;-6.8
+Houston;15.5
+Rio de Janeiro;-3.5
+Seattle;15.6
+Denver;12.1
+Bangalore;-19.0
+Rio de Janeiro;13.3
+Stockholm;-4.4
+Buenos Aires;7.0
+Kuala Lumpur;5.9
+Brussels;24.9
+Kabul;9.7
+Ulaanbaatar;-19.1
+Ashgabat;-23.3
+Edinburgh;17.7
+Kuala Lumpur;41.5
+Kathmandu;-12.4
+Bogotá;11.5
+Athens;23.5
+Stuttgart;43.5
+Muscat;-1.3
+Las Vegas;12.3
+Helsinki;39.3
+Almaty;9.6
+Stuttgart;43.3
+Las Vegas;38.6
+San Francisco;-16.6
+Jakarta;-9.3
+Berlin;-19.3
+Ulaanbaatar;34.6
+Sanaa;-21.2
+Beirut;38.6
+Dhaka;-20.1
+San Francisco;-8.5
+Baghdad;-22.8
+Buenos Aires;1.3
+Naples;-26.8
+Porto Alegre;44.0
+Busan;26.3
+Belém;-18.9
+Kabul;39.3
+Rome;2.0
+Recife;-28.5
+Porto Alegre;-9.2
+Phoenix;-29.3
+Lima;22.0
+Busan;1.1
+Ankara;28.6
+Cape Town;-10.6
+Auckland;38.3
+São Paulo;-1.5
+Hong Kong;-7.8
+La Paz;-2.2
+Damascus;-25.2
+Monterrey;37.0
+Dublin;-10.1
+Phnom Penh;40.3
+Muscat;30.8
+Amman;-4.0
+Monterrey;-19.6
+Birmingham;12.8
+Lima;-0.1
+Sanaa;12.3
+Bangalore;-20.2
+Ankara;-9.2
+Guadalajara;15.3
+Vienna;-6.0
+Beirut;23.1
+Karachi;23.9
+Karachi;-12.7
+Ho Chi Minh City;-7.9
+Tehran;3.4
+Chicago;34.5
+Ulaanbaatar;-16.4
+Florence;14.5
+Singapore;-7.0
+Munich;24.6
+Bogotá;35.1
+Dushanbe;-9.8
+Cologne;14.4
+Ankara;15.6
+Barcelona;43.0
+Manchester;3.2
+Busan;-4.3
+Dushanbe;-4.2
+Bangkok;-24.0
+Buenos Aires;23.0
+Auckland;-5.0
+Geneva;-13.5
+Manaus;28.0
+San Francisco;42.5
+Zurich;12.7
+Beijing;29.5
+London;33.0
+Doha;3.1
+Los Angeles;-28.7
+Curitiba;18.5
+Curitiba;3.8
+Cairo;9.2
+Rome;31.4
+Baghdad;-2.7
+Manila;-18.4
+Seoul;12.9
+Florence;11.6
+Brasília;33.0
+Warsaw;15.9
+San Francisco;21.9
+Frankfurt;-9.9
+London;-2.3
+Brussels;-2.8
+Hong Kong;8.0
+Kuwait City;5.8
+Hanoi;17.6
+Hanoi;32.0
+Venice;-3.1
+Paris;-1.6
+Lima;-22.5
+Phoenix;-22.9
+Jerusalem;10.3
+Curitiba;15.8
+Vancouver;18.4
+Buenos Aires;17.5
+Athens;44.3
+Recife;10.2
+Porto Alegre;17.3
+Porto;-7.8
+Liverpool;-20.9
+Kuwait City;35.3
+Montreal;11.1
+Colombo;10.4
+Los Angeles;-2.0
+Goiânia;-23.6
+Liverpool;15.8
+Toronto;-11.6
+Las Vegas;-6.7
+Vientiane;-28.6
+Houston;-13.7
+Santiago;44.8
+Dubai;28.9
+Edinburgh;34.0
+Las Vegas;18.0
+Florence;-6.0
+Riyadh;-21.4
+Mumbai;15.0
+Los Angeles;-15.7
+Doha;20.5
+Las Vegas;10.0
+Amman;-10.0
+Florence;-17.6
+Venice;38.8
+Dublin;-5.3
+Atlanta;-0.4
+Moscow;-28.5
+Kolkata;35.1
+Birmingham;-11.4
+Ashgabat;12.9
+Seattle;42.5
+Beirut;-18.9
+Bishkek;-29.4
+Atlanta;15.7
+Hanoi;7.9
+Dushanbe;-4.0
+Riyadh;13.3
+Lagos;4.0
+London;10.2
+San Francisco;8.5
+Ulaanbaatar;9.1
+Lima;32.6
+Kuwait City;27.3
+Seville;4.6
+Santiago;-1.5
+Montreal;-14.7
+Bangkok;3.3
+Houston;-12.1
+Budapest;-10.2
+Valencia;-1.7
+Bangkok;-12.4
+La Paz;-23.6
+Quito;-0.7
+Athens;-11.2
+Beijing;9.5
+Tashkent;2.4
+Goiânia;42.5
+Bishkek;42.3
+Brasília;27.2
+Cologne;-3.6
+Yangon;14.1
+Busan;2.9
+Athens;42.5
+Ulaanbaatar;13.3
+Atlanta;13.2
+Tehran;-22.5
+Lima;22.7
+Kuala Lumpur;19.7
+Shanghai;27.1
+Ashgabat;37.7
+Paris;15.7
+Kabul;-2.4
+Chicago;8.2
+Almaty;-28.3
+Amman;20.9
+Kabul;24.0
+Buenos Aires;-8.9
+Bangkok;8.2
+Athens;40.9
+Istanbul;18.2
+Houston;-3.0
+Chicago;33.9
+Hanoi;-9.2
+Dublin;22.0
+Glasgow;-20.6
+Singapore;-18.8
+Geneva;23.2
+Karachi;-26.5
+Phnom Penh;-25.2
+Venice;3.3
+Beirut;-24.5
+Manaus;-0.3
+Seattle;6.7
+Almaty;35.2
+Montreal;-16.0
+Tashkent;41.2
+Mexico City;12.9
+Kabul;-28.8
+Jerusalem;-18.0
+Mexico City;-8.5
+Hanoi;28.3
+Birmingham;13.8
+Stuttgart;-3.6
+Delhi;16.6
+Goiânia;44.4
+Warsaw;-24.9
+New York;7.7
+Lisbon;11.5
+Naples;43.9
+Phoenix;-21.5
+Dublin;40.4
+Valencia;34.1
+Porto Alegre;10.7
+Denver;37.6
+Los Angeles;-29.6
+Warsaw;-3.5
+Copenhagen;18.9
+São Paulo;42.7
+Porto Alegre;-18.5
+Doha;20.2
+Jakarta;22.9
+Naples;31.9
+San Francisco;40.8
+Singapore;42.7
+Bangkok;-29.0
+Rome;33.7
+Hamburg;-20.9
+Oslo;20.6
+Toronto;1.1
+Doha;-19.9
+Berlin;43.8
+Madrid;25.0
+Kabul;20.4
+Beirut;41.4
+Athens;16.6
+Venice;41.5
+Istanbul;23.3
+Lagos;25.9
+Hong Kong;17.4
+Beirut;34.8
+Chicago;-23.9
+Jerusalem;-24.2
+Lagos;31.8
+Bogotá;-26.4
+Damascus;-17.7
+Lima;-4.1
+Stockholm;-27.9
+Shanghai;-17.2
+Recife;30.5
+Moscow;-11.1
+Istanbul;4.1
+Melbourne;-2.3
+Glasgow;-24.2
+Baghdad;43.8
+Tokyo;-14.0
+Delhi;15.4
+Las Vegas;2.6
+Chicago;38.4
+Vientiane;18.6
+Sanaa;41.1
+Frankfurt;36.0
+Phoenix;33.9
+Melbourne;-12.1
+Copenhagen;-28.1
+Rome;-23.3
+Cairo;30.0
+Liverpool;14.5
+Damascus;-23.4
+Salvador;26.3
+Tehran;-10.9
+Berlin;41.3
+New York;34.2
+Lagos;-28.2
+Dallas;18.1
+Atlanta;17.5
+São Paulo;43.0
+Edinburgh;-13.3
+Kuala Lumpur;27.9
+Tashkent;41.6
+Mumbai;33.2
+Busan;37.6
+Bangalore;2.2
+Rome;-28.0
+Chennai;-22.8
+Bangkok;37.8
+Amsterdam;-11.0
+Hamburg;33.0
+Kabul;-28.9
+New York;-3.0
+Manila;27.4
+Quito;19.2
+Chennai;26.3
+Atlanta;-22.6
+Muscat;42.6
+Seattle;29.0
+Salvador;20.1
+Manchester;4.4
+Paris;-4.0
+Chennai;41.6
+Seville;11.7
+Beijing;-19.4
+Brasília;-2.9
+Boston;38.0
+Tashkent;-14.7
+Hong Kong;32.3
+Nairobi;-1.3
+Bogotá;4.4
+Cairo;-21.4
+Seville;-18.6
+London;-7.5
+Vientiane;11.7
+Kolkata;24.1
+Kabul;20.3
+Barcelona;10.5
+Lisbon;-7.3
+Oslo;34.5
+Goiânia;-8.3
+Prague;-1.4
+Cairo;-0.2
+Belo Horizonte;26.4
+Dallas;-23.9
+Seattle;-9.3
+Shanghai;7.2
+Chicago;40.7
+Kuala Lumpur;-3.1
+Venice;23.5
+Florence;-17.6
+Prague;-19.6
+Ankara;-19.7
+Fortaleza;-5.3
+Karachi;33.4
+Shanghai;-4.9
+Yangon;0.8
+Paris;1.4
+Vancouver;17.2
+Manchester;24.2
+Valencia;-20.7
+Colombo;41.5
+Edinburgh;39.9
+Pyongyang;42.3
+Yangon;31.3
+Busan;16.9
+Edinburgh;16.6
+Birmingham;-25.4
+Porto;19.4
+Seattle;-20.1
+Rio de Janeiro;-26.6
+Helsinki;33.8
+Monterrey;-28.6
+Las Vegas;23.3
+Belém;13.1
+Birmingham;25.5
+Tehran;30.1
+Helsinki;-6.3
+Sanaa;15.6
+Montreal;-9.5
+Dushanbe;-19.9
+Budapest;17.6
+Ashgabat;-3.7
+Valencia;3.4
+Atlanta;17.3
+Fortaleza;-4.8
+Dushanbe;-23.1
+Nairobi;-21.5
+Amsterdam;23.0
+Phoenix;18.7
+Berlin;3.5
+Munich;-17.6
+Dublin;26.6
+Kuwait City;4.0
+Portland;-18.0
+Cairo;42.3
+Bangkok;25.9
+Beijing;3.8
+Guadalajara;36.3
+São Paulo;41.4
+Tashkent;17.9
+Belém;44.1
+Birmingham;-20.9
+Munich;-16.9
+Delhi;-28.8
+São Paulo;37.9
+Santiago;-0.5
+Tehran;0.9
+Jakarta;-8.2
+Salvador;-20.4
+Birmingham;36.2
+Bogotá;-21.9
+Rio de Janeiro;40.8
+Venice;13.4
+Baghdad;26.7
+Bangalore;38.6
+Baghdad;-10.2
+Las Vegas;25.3
+Zurich;20.1
+Lima;15.0
+Goiânia;31.8
+Edinburgh;31.4
+Denver;-2.3
+Sydney;-5.5
+Cologne;-11.0
+Seville;-23.6
+Montreal;-12.9
+New York;33.9
+Miami;-7.9
+Lima;-25.2
+Rio de Janeiro;-20.0
+Zurich;22.9
+Munich;2.5
+Vientiane;-23.9
+Boston;20.0
+Belém;8.0
+Venice;34.5
+Florence;39.6
+Kathmandu;4.6
+Belo Horizonte;-7.8
+Dhaka;31.1
+Budapest;14.1
+Venice;39.0
+Turin;15.3
+Manaus;29.5
+Seattle;41.7
+Edinburgh;28.6
+Cologne;-25.3
+Riyadh;8.5
+Goiânia;42.9
+Amman;25.4
+Oslo;19.5
+Goiânia;-29.5
+Austin;25.6
+Munich;11.7
+Manaus;23.7
+London;5.2
+Brussels;-6.7
+Valencia;-28.9
+Belém;2.3
+Istanbul;-29.2
+Glasgow;34.5
+Madrid;-15.9
+Kuwait City;-8.2
+Brussels;12.7
+Stuttgart;39.3
+La Paz;-20.9
+Brasília;24.1
+Valencia;-12.0
+Melbourne;23.7
+Kuwait City;25.8
+Athens;10.1
+Fortaleza;12.6
+Toronto;43.2
+Ankara;-17.3
+Stockholm;31.3
+Kabul;-18.6
+Chicago;-3.1
+Cairo;13.7
+Dublin;26.4
+Kabul;-11.2
+Damascus;-14.7
+Fortaleza;22.2
+Reykjavik;23.1
+Oslo;-5.8
+London;34.9
+Los Angeles;8.2
+Bishkek;17.5
+Riyadh;-16.6
+Manaus;44.0
+Houston;21.3
+Ankara;-12.5
+Birmingham;39.2
+Florence;23.7
+Doha;2.1
+Cape Town;-13.1
+Manila;6.2
+Budapest;32.6
+Dallas;-23.6
+Kathmandu;12.3
+Curitiba;13.2
+London;8.5
+Dushanbe;0.1
+Dubai;-26.2
+Sydney;-18.3
+Dhaka;34.8
+Yangon;-0.7
+Miami;-2.7
+Karachi;41.7
+Copenhagen;-17.4
+Fortaleza;2.9
+Kolkata;11.7
+Busan;-0.8
+Kolkata;5.3
+Goiânia;25.6
+Phoenix;-2.6
+Kuala Lumpur;-19.5
+Ankara;-14.1
+Porto;41.5
+Dallas;-5.3
+Bogotá;11.6
+Melbourne;-17.5
+La Paz;-0.0
+Dhaka;18.6
+São Paulo;-9.0
+Vientiane;18.4
+Zurich;40.0
+Beijing;-6.6
+Santiago;-25.6
+Buenos Aires;22.2
+Bishkek;19.1
+Monterrey;-16.8
+Monterrey;2.7
+Madrid;9.3
+Seattle;9.4
+Quito;41.9
+Guadalajara;14.9
+Pyongyang;-13.4
+Dallas;33.4
+Paris;43.2
+Amsterdam;25.9
+Valencia;43.0
+Boston;10.7
+Birmingham;18.5
+Melbourne;25.6
+Mexico City;31.8
+Dublin;2.2
+Hanoi;11.6
+Paris;-17.8
+Edinburgh;-6.0
+Beijing;38.9
+Caracas;-26.6
+Singapore;23.4
+Vientiane;-29.0
+Berlin;-12.6
+Dallas;-10.0
+Frankfurt;-5.4
+Portland;-23.5
+Monterrey;29.7
+Lima;0.1
+Jakarta;31.1
+Jakarta;-5.7
+Frankfurt;-29.7
+Amsterdam;5.7
+Dublin;-11.4
+Jerusalem;13.8
+Chennai;5.6
+Toronto;-11.6
+Vientiane;32.0
+Pyongyang;30.7
+Almaty;9.8
+Stockholm;33.3
+Istanbul;30.8
+Barcelona;44.3
+Riyadh;-10.0
+Yangon;-28.3
+Fortaleza;-20.1
+Rio de Janeiro;32.8
+Kuwait City;24.4
+Rio de Janeiro;-12.3
+Dubai;6.1
+Belém;42.1
+Phnom Penh;8.8
+Jerusalem;10.3
+Brasília;30.6
+Dublin;40.6
+Glasgow;-23.7
+Singapore;33.4
+Budapest;10.1
+Hong Kong;40.4
+Kuwait City;0.0
+Los Angeles;-27.8
+Helsinki;1.0
+Santiago;22.2
+Zurich;27.3
+Dallas;37.4
+Atlanta;40.8
+Fortaleza;17.5
+Paris;24.1
+Damascus;9.0
+Belo Horizonte;-19.8
+Fortaleza;-11.8
+Amsterdam;-19.6
+Liverpool;-5.2
+Mexico City;-5.3
+Helsinki;-9.0
+Ashgabat;16.1
+Denver;4.3
+Istanbul;11.6
+Manaus;11.7
+Seoul;18.3
+Auckland;29.2
+Florence;-8.6
+Liverpool;-27.6
+Phoenix;-9.9
+Santiago;43.1
+Edinburgh;-13.5
+Dallas;33.5
+Cape Town;41.8
+Montreal;12.4
+Ashgabat;21.4
+Tokyo;36.3
+Ulaanbaatar;31.0
+Sydney;4.7
+Amsterdam;16.4
+Delhi;-3.7
+Caracas;-24.7
+Birmingham;37.7
+Brasília;29.6
+Manaus;-19.7
+Melbourne;16.2
+Kuwait City;-6.2
+Montreal;3.0
+Porto Alegre;-22.3
+Stuttgart;30.1
+Houston;-26.0
+Dallas;19.5
+Singapore;23.3
+Porto Alegre;-22.3
+San Francisco;27.1
+San Francisco;-3.1
+Jerusalem;-15.9
+Monterrey;44.8
+Karachi;-9.5
+Las Vegas;18.8
+Istanbul;-25.9
+Ho Chi Minh City;35.5
+Reykjavik;35.1
+Mumbai;28.5
+Bangkok;23.3
+Santiago;26.4
+Curitiba;32.8
+Chennai;-10.8
+Toronto;18.2
+Glasgow;2.0
+Baghdad;43.7
+London;37.2
+Quito;7.0
+Geneva;23.9
+Chennai;0.6
+São Paulo;14.9
+Venice;7.3
+Chennai;-10.2
+New York;-17.6
+Chicago;38.1
+Tashkent;40.4
+Bogotá;-19.0
+Rome;33.6
+Mumbai;-20.7
+Baghdad;-16.3
+Seattle;-3.3
+Brasília;0.0
+Ankara;23.9
+Brussels;-15.9
+La Paz;-9.1
+Atlanta;10.3
+Amman;-0.6
+Curitiba;43.8
+Manchester;7.0
+Busan;-13.6
+Brussels;3.0
+Kabul;22.5
+Cape Town;33.7
+Jakarta;-26.5
+Manila;-15.8
+Shanghai;13.2
+Bishkek;-8.6
+Kuala Lumpur;-27.5
+Austin;13.3
+Monterrey;19.2
+Frankfurt;16.7
+Stockholm;25.5
+Liverpool;33.3
+Karachi;3.1
+Naples;15.1
+Lisbon;3.8
+Hanoi;30.2
+Kuwait City;-29.6
+Jerusalem;-14.0
+Vienna;-16.1
+Oslo;-15.9
+Bogotá;24.7
+Rio de Janeiro;39.4
+Auckland;-10.0
+Venice;-28.7
+Riyadh;-0.2
+Beirut;14.2
+Stuttgart;-10.7
+Baghdad;-20.5
+Zurich;33.9
+Ulaanbaatar;-26.8
+Boston;-29.8
+Lagos;-22.2
+Bangalore;6.2
+Portland;-22.1
+Portland;20.6
+Cairo;-14.3
+Almaty;-28.3
+Kabul;-12.8
+Yangon;31.5
+Shanghai;-25.8
+Dallas;11.3
+Jakarta;-1.9
+Frankfurt;0.2
+Mexico City;30.9
+Reykjavik;26.6
+Hamburg;-6.6
+Kathmandu;2.2
+Jakarta;12.3
+Ulaanbaatar;-25.6
+Santiago;5.7
+Belo Horizonte;21.4
+Cologne;9.2
+Bangalore;33.7
+Jerusalem;-3.3
+Cologne;-9.5
+Amsterdam;6.0
+Jakarta;40.4
+Dubai;-26.0
+Munich;31.9
+Cologne;-1.9
+Kabul;-27.8
+Baghdad;38.5
+La Paz;5.7
+Bogotá;18.6
+Toronto;7.3
+Miami;15.0
+Paris;9.0
+Baghdad;5.8
+Valencia;17.1
+Madrid;-0.9
+Belém;32.3
+Hanoi;34.1
+Madrid;20.4
+Bishkek;-19.4
+Monterrey;-4.6
+Lima;-8.7
+Porto;34.8
+Goiânia;28.8
+Venice;-19.7
+Munich;10.5
+Stuttgart;0.4
+Sanaa;5.3
+Florence;0.6
+Paris;17.8
+Auckland;-13.8
+Paris;35.6
+Vientiane;29.0
+Karachi;38.7
+Jakarta;8.6
+Amsterdam;3.9
+Liverpool;-4.9
+Warsaw;4.1
+Karachi;14.8
+Montreal;4.0
+Barcelona;23.0
+Naples;13.6
+Sydney;-8.8
+Naples;-6.7
+Atlanta;3.8
+Riyadh;-9.0
+Cologne;41.1
+Paris;-15.0
+Istanbul;8.5
+Singapore;1.4
+Ankara;16.0
+Colombo;19.7
+Istanbul;34.1
+Cape Town;10.8
+Warsaw;45.0
+Toronto;-5.7
+Nairobi;11.5
+Manila;-19.6
+Baghdad;35.0
+Cologne;-1.0
+Lima;5.7
+Helsinki;39.6
+Dushanbe;2.8
+Cologne;33.1
+Ashgabat;-24.2
+La Paz;4.3
+Karachi;27.8
+Milan;0.5
+Manaus;-2.5
+Belo Horizonte;-28.6
+Bishkek;0.8
+Manila;14.6
+Sanaa;36.0
+Seville;38.3
+Miami;-18.9
+Glasgow;6.7
+Naples;39.3
+Lagos;9.0
+Kuala Lumpur;24.9
+São Paulo;-25.0
+Reykjavik;-25.0
+Stuttgart;-23.1
+Nairobi;-5.6
+Madrid;3.9
+Quito;-24.2
+Las Vegas;17.7
+Dushanbe;14.9
+London;6.2
+Bangkok;8.9
+Buenos Aires;38.4
+New York;-11.0
+Vientiane;13.9
+Ashgabat;17.6
+Amsterdam;-21.1
+Edinburgh;6.9
+Kuala Lumpur;-9.6
+Los Angeles;-16.5
+Belém;45.0
+Brasília;36.6
+Amman;28.1
+Chennai;13.9
+Cologne;3.0
+Hanoi;39.8
+Mumbai;22.4
+Seattle;18.0
+Brasília;28.0
+Dallas;-20.5
+Phnom Penh;31.2
+Prague;-12.1
+Moscow;13.4
+Hanoi;-13.0
+Los Angeles;17.2
+Bangkok;-11.8
+Porto Alegre;7.1
+Tehran;32.2
+Montreal;-1.3
+Moscow;5.7
+Istanbul;22.7
+Guadalajara;-19.2
+Copenhagen;-18.5
+Munich;-3.9
+New York;-22.8
+Beijing;27.4
+Turin;32.0
+Hamburg;34.2
+Karachi;-22.1
+Vancouver;15.0
+Lagos;23.1
+Manchester;4.1
+Denver;-18.6
+Porto;23.7
+Yangon;-16.6
+Busan;3.4
+Austin;41.8
+Barcelona;-2.6
+Phoenix;32.3
+Sydney;13.3
+Bangalore;37.0
+Muscat;-23.0
+Munich;-29.1
+Nairobi;-4.5
+Hong Kong;38.5
+Copenhagen;28.7
+Bishkek;37.1
+Chicago;-4.2
+Mexico City;30.9
+Vientiane;28.3
+Damascus;19.7
+Bogotá;25.4
+Atlanta;-12.8
+Salvador;3.4
+Dushanbe;1.7
+Portland;37.2
+Phoenix;12.2
+Dublin;5.0
+Beirut;-27.8
+Porto;40.5
+Quito;22.8
+Las Vegas;9.6
+Busan;-23.3
+Seattle;-0.3
+Tokyo;-17.4
+Istanbul;29.0
+Boston;-16.1
+Bangkok;29.9
+Santiago;-1.2
+Rio de Janeiro;16.3
+Singapore;3.0
+Bangalore;-1.9
+Phoenix;13.0
+Munich;2.8
+Seattle;26.5
+Amman;4.0
+Ulaanbaatar;5.0
+Kuwait City;31.6
+Porto;12.5
+Manchester;-10.8
+Madrid;27.0
+Chennai;-0.5
+Florence;9.3
+Cologne;41.1
+Bangalore;44.2
+Moscow;15.9
+Lima;25.2
+Lagos;-10.0
+Jakarta;41.8
+Shanghai;40.1
+Amsterdam;39.7
+Manaus;21.4
+Copenhagen;5.7
+Doha;37.2
+Toronto;11.9
+Dhaka;30.6
+Shanghai;-3.2
+Tehran;18.5
+Edinburgh;-11.9
+Lagos;-19.1
+Fortaleza;35.6
+Zurich;-2.2
+Amman;15.7
+Ho Chi Minh City;32.9
+Houston;-13.8
+Melbourne;4.3
+Jakarta;11.0
+Dubai;7.1
+Vienna;4.8
+Stuttgart;-23.5
+Tokyo;-10.9
+Singapore;-21.8
+Sydney;14.4
+Denver;44.8
+Bangalore;15.3
+Bogotá;-11.9
+Dublin;-3.3
+Riyadh;-23.9
+Stockholm;40.2
+Riyadh;-1.0
+Dubai;18.3
+Hamburg;32.0
+Houston;-21.8
+Bishkek;22.2
+Toronto;5.2
+Tokyo;0.1
+Recife;-6.8
+Venice;11.1
+Manaus;18.5
+Phnom Penh;44.2
+Copenhagen;22.3
+Riyadh;18.0
+Ho Chi Minh City;-15.0
+Miami;6.6
+Toronto;-1.6
+Munich;-1.4
+Ankara;-8.1
+Jerusalem;9.5
+New York;13.4
+Hamburg;21.3
+Helsinki;-22.9
+Hamburg;10.5
+Nairobi;-15.8
+Lima;-11.7
+Las Vegas;37.3
+Tehran;11.3
+Berlin;36.8
+Singapore;43.9
+Sydney;7.3
+Beijing;5.1
+Florence;-26.8
+New York;-29.5
+Singapore;-5.7
+Shanghai;32.8
+Istanbul;10.4
+Seattle;14.4
+Busan;29.0
+Kuwait City;-9.0
+Porto;27.0
+Goiânia;-15.9
+Florence;-25.9
+Florence;7.8
+Sanaa;-9.3
+Turin;27.3
+Miami;-2.7
+Melbourne;-15.4
+Toronto;-8.2
+Dubai;-19.1
+Baghdad;-3.0
+Lisbon;-1.3
+Munich;-18.1
+Houston;30.8
+Lima;28.7
+Phnom Penh;12.5
+Belém;40.2
+Brussels;26.0
+Amsterdam;27.1
+Los Angeles;36.7
+Karachi;-7.6
+Oslo;-22.1
+Kathmandu;1.6
+Amman;-26.5
+Ho Chi Minh City;4.9
+Pyongyang;-14.8
+Santiago;29.3
+Florence;41.9
+Brasília;-21.4
+La Paz;43.4
+Nairobi;-21.0
+Manaus;7.7
+Amman;-11.4
+Riyadh;0.3
+Barcelona;-20.9
+Helsinki;40.5
+Vienna;13.9
+Quito;43.6
+Kuala Lumpur;12.6
+Chicago;-27.6
+Jakarta;25.4
+Dublin;-24.4
+Dhaka;30.4
+Reykjavik;7.8
+Austin;-12.0
+Budapest;13.1
+Delhi;43.1
+Ankara;-8.9
+Portland;-20.3
+Jerusalem;33.6
+Bangkok;-22.0
+Singapore;20.2
+Florence;-16.6
+Recife;2.4
+Guadalajara;11.3
+Berlin;3.4
+Phnom Penh;38.1
+Rome;23.6
+Colombo;4.6
+Sydney;4.7
+Nairobi;-1.3
+Mumbai;43.9
+Florence;16.6
+Florence;15.0
+Rome;-0.2
+São Paulo;-16.9
+Stuttgart;35.4
+Shanghai;17.6
+Tashkent;-15.0
+Ashgabat;-3.0
+San Francisco;10.1
+Geneva;-25.1
+Shanghai;-21.2
+Stockholm;34.0
+Florence;22.2
+Ankara;-15.5
+Bangalore;31.5
+Kabul;-16.3
+Pyongyang;37.1
+Kabul;15.3
+Damascus;14.3
+Glasgow;28.8
+Bishkek;-19.9
+Rio de Janeiro;39.0
+Beirut;-21.8
+Florence;-15.0
+Busan;37.4
+Ankara;-16.7
+Hong Kong;18.5
+Ho Chi Minh City;27.4
+Lima;17.5
+Boston;-11.6
+Seoul;25.5
+Jakarta;23.2
+Sanaa;-26.9
+Budapest;10.5
+Venice;18.2
+Vienna;-11.3
+Beirut;-20.6
+Atlanta;-7.0
+Goiânia;-18.8
+Ashgabat;-29.7
+Porto;-20.4
+Houston;1.8
+Las Vegas;43.3
+Miami;5.1
+Seoul;23.3
+Dubai;23.4
+Naples;15.6
+Dublin;42.7
+London;-18.5
+Helsinki;-27.5
+Ashgabat;-26.4
+Rome;6.6
+Munich;-28.2
+Zurich;7.9
+Cape Town;-1.2
+Copenhagen;-27.0
+Dhaka;39.8
+New York;10.6
+Bogotá;-11.5
+Jerusalem;20.0
+Fortaleza;-8.0
+Pyongyang;-28.4
+Denver;28.3
+Brasília;3.5
+Paris;10.6
+Denver;-6.4
+Barcelona;-27.5
+La Paz;5.1
+Seville;12.9
+Berlin;8.7
+Bangkok;-6.6
+Stockholm;33.0
+Seattle;23.6
+Ho Chi Minh City;20.5
+Manila;1.7
+London;20.0
+Melbourne;-4.8
+Recife;30.8
+Moscow;-28.4
+São Paulo;-20.9
+San Francisco;26.0
+Dublin;-27.1
+Stuttgart;2.9
+Florence;-7.3
+Damascus;-5.8
+Cologne;-1.1
+Glasgow;22.4
+Lima;39.9
+Warsaw;-18.7
+Paris;-10.6
+Sanaa;1.3
+Venice;5.8
+Portland;34.4
+Vienna;-17.5
+Yangon;15.5
+Ashgabat;-16.1
+Vancouver;40.2
+Dhaka;-11.1
+Almaty;24.1
+Warsaw;6.6
+Barcelona;37.0
+Guadalajara;-8.7
+Reykjavik;-13.8
+Brasília;-19.6
+Melbourne;-20.8
+Pyongyang;27.0
+Belo Horizonte;-16.3
+Beijing;16.2
+Hong Kong;20.1
+Berlin;38.7
+Milan;-21.1
+Stuttgart;-3.2
+Damascus;19.9
+Lima;-15.4
+Caracas;-29.0
+Bangkok;12.8
+Houston;11.9
+Munich;38.0
+Rio de Janeiro;5.6
+Berlin;-18.4
+Boston;41.8
+Tehran;-27.0
+Kolkata;22.6
+Prague;-18.5
+Berlin;-29.4
+London;40.4
+Budapest;-11.2
+Shanghai;1.3
+Tokyo;34.8
+Recife;38.5
+Vienna;4.9
+Cape Town;-10.5
+Austin;41.8
+Vancouver;38.0
+Salvador;-22.8
+Lima;24.3
+Glasgow;40.1
+Edinburgh;9.1
+Las Vegas;41.6
+Bangkok;40.1
+Beijing;-20.1
+Lima;-18.6
+Beirut;34.1
+Manchester;36.8
+Baghdad;4.5
+Edinburgh;-22.6
+São Paulo;-21.3
+Geneva;5.0
+Madrid;13.1
+Caracas;43.2
+Atlanta;27.0
+Manila;-6.4
+Beirut;-5.3
+Pyongyang;-10.9
+Riyadh;-27.2
+Fortaleza;-21.9
+San Francisco;34.8
+Tehran;35.6
+London;37.1
+Chennai;-14.8
+Yangon;-19.6
+Oslo;15.3
+Reykjavik;12.0
+Vientiane;-12.1
+Fortaleza;7.8
+Manila;-14.4
+Riyadh;41.4
+Barcelona;19.9
+Vienna;-2.6
+Cologne;41.8
+Amsterdam;30.6
+Beijing;11.4
+Dubai;-29.5
+Vienna;3.5
+Frankfurt;-23.9
+Almaty;-7.1
+Bishkek;-28.0
+Colombo;-17.1
+Las Vegas;40.7
+London;-18.4
+Baghdad;-26.9
+Paris;-18.5
+Zurich;34.3
+Vancouver;11.7
+Manaus;-12.2
+Manaus;-14.2
+Tokyo;-29.5
+New York;21.2
+Melbourne;-4.3
+Houston;-14.6
+Busan;-24.1
+Jerusalem;26.3
+Belo Horizonte;13.2
+Las Vegas;-16.4
+Denver;20.2
+Pyongyang;25.4
+Reykjavik;35.9
+Mexico City;25.8
+Jerusalem;-3.1
+Atlanta;21.9
+Sanaa;39.6
+Santiago;-5.9
+Prague;44.4
+Mumbai;18.2
+New York;35.6
+Cologne;39.9
+Valencia;-18.2
+Copenhagen;13.7
+Helsinki;-29.3
+Valencia;-13.4
+Venice;15.4
+Turin;16.8
+Dublin;40.6
+Berlin;37.9
+Las Vegas;-13.2
+Dublin;-29.7
+Porto Alegre;-22.2
+Lima;30.9
+Doha;-18.4
+Tokyo;-19.2
+Zurich;21.3
+Athens;-9.7
+Brasília;-14.7
+Barcelona;8.8
+Cape Town;34.8
+Warsaw;6.5
+Goiânia;-27.7
+Las Vegas;17.1
+Pyongyang;-12.8
+Dhaka;16.1
+Florence;10.3
+Amsterdam;19.6
+Liverpool;-0.7
+Ashgabat;-28.5
+Ankara;-9.0
+Edinburgh;41.0
+Dallas;31.1
+New York;25.3
+Florence;8.1
+Denver;-20.1
+Jakarta;35.3
+Shanghai;43.1
+Rio de Janeiro;16.2
+Phnom Penh;14.1
+Vancouver;12.2
+Phnom Penh;-25.4
+Glasgow;42.7
+Ashgabat;10.2
+Dublin;13.5
+Rio de Janeiro;13.5
+Dubai;-0.7
+Ankara;-15.3
+Dubai;-20.2
+Florence;-1.3
+Jerusalem;-14.7
+Beijing;15.1
+Naples;31.0
+São Paulo;8.5
+Kuala Lumpur;-9.4
+Porto;3.5
+Bangalore;25.3
+Manchester;-19.1
+Portland;-21.6
+Reykjavik;31.2
+Chennai;-16.7
+Dubai;28.6
+Auckland;22.9
+Barcelona;4.2
+Boston;16.3
+Montreal;-20.0
+Manila;40.2
+Seoul;-19.2
+Geneva;-21.8
+Manila;15.3
+Phnom Penh;13.5
+Mexico City;5.2
+Monterrey;3.8
+Cologne;-16.2
+Naples;-22.8
+Los Angeles;31.5
+Valencia;-12.8
+Tashkent;-22.8
+Vienna;28.4
+Beijing;-8.2
+Melbourne;-9.2
+Bangkok;4.7
+Baghdad;-9.7
+Liverpool;-25.0
+Kathmandu;6.7
+Ulaanbaatar;20.0
+Rome;20.8
+Houston;37.8
+Florence;10.2
+Cologne;-27.9
+Colombo;33.8
+Kuala Lumpur;-0.3
+Berlin;0.9
+Denver;5.7
+Naples;-11.8
+Seattle;20.5
+Lisbon;-26.5
+Vancouver;1.0
+Hong Kong;-19.2
+Rio de Janeiro;15.2
+Monterrey;1.6
+Vientiane;30.7
+Denver;7.9
+Zurich;36.9
+Venice;12.5
+Baghdad;4.7
+Boston;-15.5
+Frankfurt;40.6
+Milan;30.6
+Vancouver;13.0
+Baghdad;-27.7
+Seattle;21.8
+Melbourne;33.0
+Birmingham;-25.6
+Beirut;9.4
+Dhaka;-3.3
+Amsterdam;-10.3
+Moscow;-17.9
+Milan;-8.3
+Milan;-21.1
+Bogotá;39.5
+Busan;-6.7
+Tokyo;-6.6
+Singapore;-13.0
+Brussels;40.8
+Jerusalem;17.9
+Moscow;42.3
+New York;6.0
+Budapest;27.1
+New York;27.8
+Brussels;-24.9
+London;34.0
+Doha;13.9
+Yangon;-15.0
+Goiânia;29.1
+Goiânia;-11.5
+Porto;12.9
+Berlin;-21.0
+Valencia;-1.7
+Manila;16.6
+Munich;27.8
+Liverpool;-24.5
+Venice;-21.1
+Vancouver;-22.5
+Karachi;5.4
+Kabul;-12.2
+Hanoi;27.3
+Helsinki;-8.8
+Chicago;20.8
+Helsinki;32.6
+Kolkata;8.8
+Muscat;-11.3
+Nairobi;36.9
+Venice;-28.6
+Jakarta;38.2
+Sydney;-19.7
+Dushanbe;32.8
+Jerusalem;15.8
+Ho Chi Minh City;-5.1
+Belém;27.1
+Chicago;6.8
+Jerusalem;22.8
+Brasília;-11.5
+Copenhagen;-22.2
+Sydney;38.4
+Copenhagen;10.1
+Tehran;-8.1
+Chennai;-11.6
+Yangon;-23.2
+Vancouver;17.9
+Atlanta;-1.2
+Mexico City;20.1
+Hamburg;18.3
+Porto;21.3
+Almaty;-4.6
+Dubai;-20.8
+Belo Horizonte;0.3
+Houston;-16.5
+San Francisco;23.7
+Lisbon;37.8
+Damascus;14.5
+Ankara;43.2
+Ankara;-26.7
+Ashgabat;10.4
+Cairo;-20.6
+Hanoi;1.0
+Karachi;6.2
+Riyadh;-12.5
+Monterrey;-14.9
+Seoul;3.9
+Boston;-15.2
+Berlin;1.3
+Frankfurt;-2.6
+Warsaw;-5.0
+Mexico City;12.2
+Delhi;27.9
+Madrid;11.7
+Valencia;41.3
+Doha;30.8
+Beijing;-8.6
+Chicago;7.8
+Kuwait City;-27.3
+Cairo;-19.6
+Belo Horizonte;-19.8
+Beirut;-6.2
+Reykjavik;-8.4
+Lima;24.3
+Portland;19.7
+Zurich;-19.5
+Amman;7.3
+Copenhagen;-22.7
+Lisbon;26.0
+Monterrey;37.9
+Hong Kong;-26.0
+Nairobi;7.4
+Los Angeles;-15.8
+Monterrey;-9.8
+Guadalajara;-15.4
+Jakarta;32.0
+Porto;-0.3
+Dallas;6.1
+Las Vegas;-17.0
+Monterrey;26.2
+Dubai;28.2
+Nairobi;-10.7
+Buenos Aires;36.5
+Rio de Janeiro;17.9
+Vancouver;42.2
+Toronto;-27.4
+New York;-2.7
+Geneva;-22.5
+Porto;19.9
+Ulaanbaatar;7.3
+Kuwait City;-29.4
+Oslo;-6.0
+Austin;15.7
+Muscat;21.3
+Venice;-20.5
+Atlanta;35.2
+Doha;-21.7
+Mexico City;9.1
+Phnom Penh;-15.0
+Manchester;-23.5
+Guadalajara;4.6
+Edinburgh;0.4
+Karachi;38.8
+Seattle;22.3
+Athens;-23.9
+Belém;12.0
+Buenos Aires;5.9
+Houston;2.9
+Edinburgh;-25.7
+Stockholm;13.7
+Amsterdam;35.5
+Miami;-0.8
+Seattle;26.5
+Lisbon;6.5
+Ho Chi Minh City;-0.3
+Seville;32.7
+Seoul;5.4
+Jakarta;31.9
+Fortaleza;27.0
+Muscat;-16.0
+Stuttgart;-18.2
+Rio de Janeiro;-11.0
+Helsinki;-5.4
+Baghdad;40.0
+Turin;-28.3
+Madrid;-11.8
+Istanbul;43.7
+Phnom Penh;39.9
+Valencia;42.2
+Dhaka;-18.3
+Cape Town;17.0
+Kuwait City;-6.0
+São Paulo;-1.5
+Dubai;43.7
+Boston;43.4
+Liverpool;30.9
+Austin;-16.7
+Madrid;30.0
+Muscat;-7.6
+Buenos Aires;12.5
+Munich;26.9
+Glasgow;-3.7
+Turin;10.7
+Phoenix;-10.0
+Kuala Lumpur;10.1
+Munich;11.8
+Mexico City;-2.5
+Ashgabat;-11.3
+Busan;1.7
+Vancouver;-17.6
+Rome;-29.0
+Helsinki;-8.5
+Phoenix;-7.5
+Almaty;-29.5
+Santiago;11.8
+Nairobi;22.5
+Edinburgh;31.4
+London;-18.8
+Kuwait City;26.3
+Chennai;21.5
+Goiânia;-18.6
+Melbourne;19.5
+Belo Horizonte;-9.4
+Glasgow;-21.6
+Busan;10.5
+Denver;38.7
+Ankara;42.6
+Tokyo;-20.3
+Lagos;16.1
+Amman;29.7
+Fortaleza;-28.3
+Brussels;42.1
+Cape Town;26.6
+Beijing;2.9
+Vienna;-0.2
+Kathmandu;-0.1
+Porto Alegre;-20.8
+Florence;-25.2
+Milan;4.3
+Paris;-1.2
+Damascus;-1.4
+Tokyo;-8.0
+Denver;28.3
+Chennai;16.8
+Lisbon;36.1
+Santiago;41.2
+Milan;20.3
+Venice;44.1
+Vancouver;-22.5
+Cairo;38.7
+Madrid;-12.0
+Recife;-6.3
+Mexico City;5.1
+Beirut;20.6
+Helsinki;40.4
+Glasgow;39.5
+Los Angeles;21.0
+Kolkata;-14.4
+Portland;3.1
+Seville;-5.3
+Monterrey;-0.9
+Dubai;39.2
+Yangon;-16.0
+Mumbai;18.6
+Bangkok;-13.8
+Mumbai;10.3
+Oslo;-14.3
+Florence;-26.5
+Goiânia;32.6
+Hanoi;11.7
+Kuala Lumpur;13.7
+Yangon;37.4
+Venice;24.3
+New York;-0.9
+Turin;13.9
+Manaus;32.3
+Rome;-20.9
+Montreal;38.0
+Lisbon;-27.7
+Birmingham;9.0
+Edinburgh;-7.9
+Istanbul;-3.4
+Montreal;-4.3
+Stockholm;22.7
+Geneva;18.4
+Bangalore;-3.1
+Lima;14.1
+Kuwait City;41.2
+Geneva;-23.1
+Ankara;-26.1
+La Paz;-6.6
+Doha;-25.4
+Recife;3.0
+Shanghai;24.5
+Bogotá;31.6
+Colombo;13.8
+Vancouver;43.2
+Seattle;6.3
+Naples;-19.1
+Budapest;8.6
+Valencia;-13.4
+Paris;37.0
+Guadalajara;16.1
+Guadalajara;25.1
+Vientiane;5.2
+Yangon;-9.4
+São Paulo;-3.7
+Manaus;28.7
+Edinburgh;-8.9
+Baghdad;28.8
+Curitiba;-2.2
+Karachi;4.0
+Austin;2.6
+Kabul;29.4
+Austin;34.5
+Baghdad;10.5
+Kabul;-13.2
+Helsinki;17.9
+Baghdad;-9.0
+Phnom Penh;8.7
+Lagos;5.9
+Copenhagen;-4.0
+Geneva;4.0
+Ho Chi Minh City;6.8
+Buenos Aires;36.8
+Ho Chi Minh City;29.9
+Salvador;22.1
+Muscat;7.3
+Brasília;-11.9
+Porto;34.0
+Glasgow;-3.5
+Cairo;25.2
+Kolkata;40.1
+Geneva;18.9
+Shanghai;6.2
+Vancouver;38.2
+Tashkent;24.8
+Tokyo;-27.0
+Ho Chi Minh City;33.0
+Turin;7.2
+Vancouver;22.5
+Lima;35.2
+Salvador;-16.3
+Porto;5.5
+Lima;6.5
+Manchester;-21.9
+Cape Town;28.4
+Bishkek;31.7
+Berlin;-7.1
+Denver;18.7
+Miami;7.0
+Buenos Aires;2.9
+Vientiane;13.0
+Damascus;44.0
+Ho Chi Minh City;-24.9
+Goiânia;9.0
+Doha;29.1
+Auckland;-20.6
+Goiânia;-11.7
+Liverpool;6.1
+Dushanbe;-29.1
+Cape Town;-15.9
+Moscow;34.3
+Dubai;38.3
+Montreal;2.0
+Boston;-0.2
+La Paz;-16.1
+London;6.8
+Istanbul;21.9
+Edinburgh;42.3
+Kabul;18.8
+Nairobi;10.9
+Dhaka;10.6
+Boston;-14.4
+Hanoi;17.8
+London;36.3
+Phnom Penh;12.0
+Phoenix;41.1
+Portland;-16.7
+Reykjavik;21.4
+Frankfurt;2.6
+Austin;7.7
+Vancouver;-13.9
+Copenhagen;38.0
+Florence;12.3
+Dubai;36.3
+Cape Town;-0.7
+Cologne;-24.8
+Kuala Lumpur;-14.1
+Curitiba;39.1
+Quito;33.8
+Shanghai;-16.9
+Belo Horizonte;-7.8
+Lisbon;7.8
+Sydney;1.2
+Doha;-17.7
+Porto;-7.3
+Vienna;9.1
+Helsinki;-22.0
+Kuala Lumpur;-6.1
+Kolkata;19.5
+Jerusalem;28.5
+Miami;32.8
+Monterrey;-1.3
+Denver;-5.9
+Zurich;-10.1
+Amsterdam;26.4
+Austin;6.0
+Ho Chi Minh City;36.8
+Jerusalem;-3.4
+Lima;29.2
+Reykjavik;-21.8
+Kuwait City;-3.0
+Boston;30.0
+Berlin;-12.5
+Kolkata;9.9
+Tehran;-2.8
+Miami;28.7
+Porto;-19.2
+Manila;11.7
+Recife;-13.7
+Cape Town;-26.7
+Kolkata;43.6
+Phnom Penh;-17.3
+Beirut;-15.0
+Sanaa;24.7
+Santiago;40.7
+Rome;32.0
+Lisbon;-20.4
+Monterrey;-0.4
+Hanoi;26.8
+Nairobi;-11.6
+La Paz;18.1
+Manila;9.1
+Valencia;-19.0
+Manchester;-25.1
+Ho Chi Minh City;-3.1
+Belém;37.2
+Baghdad;-9.1
+Guadalajara;-21.6
+Shanghai;-7.4
+Houston;16.3
+Vienna;42.1
+Athens;3.4
+Dublin;-15.0
+Bangalore;37.8
+Lisbon;22.1
+Damascus;-4.8
+Copenhagen;16.2
+Venice;-22.1
+Brussels;7.1
+Manchester;-12.4
+Guadalajara;7.3
+Paris;4.0
+Las Vegas;41.1
+Dallas;-29.8
+Stuttgart;-21.9
+Porto;-30.0
+Vientiane;-26.3
+Tehran;-28.1
+Hong Kong;-25.9
+Jakarta;6.7
+Houston;-4.5
+Dallas;4.2
+Stockholm;13.6
+Dhaka;7.8
+Madrid;-6.1
+Muscat;23.4
+Seville;18.1
+Cairo;15.6
+Montreal;7.5
+Seattle;16.6
+Turin;-15.0
+Ulaanbaatar;-26.5
+Almaty;-24.7
+La Paz;44.3
+Brasília;3.4
+Damascus;-3.4
+Lima;38.0
+Chicago;28.6
+Dhaka;-10.1
+Florence;-20.8
+Ho Chi Minh City;30.4
+Madrid;35.2
+Baghdad;-26.5
+Glasgow;37.7
+Bangkok;14.6
+Busan;2.2
+Recife;-13.8
+Warsaw;-4.0
+Jerusalem;40.5
+Hong Kong;-10.7
+Florence;29.7
+Dublin;-6.0
+Manchester;21.6
+Ankara;3.9
+Belo Horizonte;-0.9
+Nairobi;34.9
+Cologne;-27.1
+Fortaleza;-15.1
+La Paz;-13.9
+Vientiane;0.6
+Manila;-21.2
+Auckland;-9.7
+Belo Horizonte;30.9
+Melbourne;-9.0
+Atlanta;-22.2
+Sydney;32.1
+Reykjavik;-9.9
+Singapore;41.4
+Naples;26.9
+Porto;7.2
+Phoenix;36.7
+Riyadh;34.7
+São Paulo;28.7
+Colombo;4.1
+San Francisco;17.4
+Naples;38.1
+Chicago;26.2
+Yangon;-26.5
+Portland;-21.3
+Amman;11.9
+Cape Town;-22.0
+Vienna;-9.6
+Copenhagen;-12.9
+Madrid;-16.8
+Florence;44.2
+Dublin;0.2
+Belo Horizonte;-21.1
+Toronto;-18.2
+Paris;13.0
+Warsaw;-11.8
+Athens;40.5
+Nairobi;31.2
+Ashgabat;28.7
+Dubai;-28.6
+Warsaw;5.8
+Reykjavik;29.8
+Budapest;41.5
+Frankfurt;25.0
+Cairo;36.0
+Jerusalem;19.5
+Quito;35.3
+Houston;10.2
+Belo Horizonte;3.1
+Turin;-21.8
+Sydney;5.7
+Riyadh;16.6
+Istanbul;39.2
+Reykjavik;-9.3
+Istanbul;29.6
+Stockholm;44.1
+Auckland;-17.1
+London;6.3
+Santiago;-21.0
+Portland;7.7
+Milan;41.3
+Jakarta;0.8
+Toronto;5.8
+Florence;3.2
+Pyongyang;10.7
+Berlin;-23.5
+Mumbai;-0.7
+Almaty;-1.0
+Miami;41.5
+Rome;-14.5
+Delhi;36.9
+Cologne;-2.4
+Beijing;21.0
+Dublin;-4.0
+Lagos;-4.2
+Ulaanbaatar;37.2
+Munich;33.8
+Seoul;-24.1
+Las Vegas;25.1
+Yangon;42.4
+Reykjavik;41.3
+Edinburgh;28.1
+Fortaleza;-13.2
+Florence;14.9
+Frankfurt;6.4
+Seville;30.1
+Dubai;-13.6
+Athens;22.8
+Beirut;-8.7
+Naples;-8.7
+Bogotá;38.1
+Manaus;-14.4
+Porto Alegre;29.2
+Amman;9.3
+New York;-12.7
+Jakarta;29.4
+Phnom Penh;28.5
+Jerusalem;-0.0
+Vienna;-23.2
+Fortaleza;5.7
+Buenos Aires;20.7
+Berlin;33.3
+Auckland;16.6
+Hanoi;5.5
+Seattle;24.6
+Dhaka;25.8
+Paris;44.1
+Oslo;20.2
+Mexico City;38.9
+Madrid;31.4
+Hanoi;44.1
+Singapore;36.4
+Sanaa;-4.7
+Baghdad;40.8
+Beirut;5.3
+Beirut;-10.8
+Mexico City;13.6
+Beirut;40.6
+Goiânia;15.2
+Muscat;34.2
+Yangon;-27.1
+Venice;-24.5
+Phnom Penh;-15.9
+Dublin;-27.5
+Madrid;-4.7
+Austin;-29.2
+Nairobi;20.4
+Naples;-7.0
+Munich;-25.1
+Istanbul;-18.1
+Amman;13.2
+Manila;33.8
+Montreal;6.4
+Beirut;28.0
+Seville;-23.7
+Kathmandu;-13.8
+Tokyo;30.8
+Kabul;16.1
+Fortaleza;29.8
+Brasília;10.6
+Manila;-25.7
+Tehran;43.3
+Stuttgart;21.2
+Goiânia;40.3
+Almaty;-29.7
+Zurich;27.1
+Hong Kong;21.2
+Berlin;-15.4
+Tashkent;-8.2
+Madrid;-25.8
+Boston;-24.0
+Warsaw;-16.7
+Baghdad;9.3
+Paris;22.3
+Dublin;-1.9
+Dubai;1.3
+Almaty;10.5
+Shanghai;4.9
+New York;32.3
+Atlanta;27.0
+Austin;-18.7
+Moscow;-7.7
+Bogotá;43.0
+Mumbai;-23.6
+Hong Kong;36.8
+Turin;44.4
+Las Vegas;14.7
+Dhaka;-16.7
+Ulaanbaatar;-19.2
+Jakarta;6.6
+Edinburgh;36.1
+Amsterdam;-27.0
+Bangalore;11.7
+Singapore;39.2
+Frankfurt;-5.2
+Baghdad;26.5
+Lisbon;17.3
+Porto;36.1
+Florence;31.0
+Fortaleza;15.0
+Dhaka;36.1
+Istanbul;-3.5
+Cape Town;8.7
+Sydney;-21.5
+Austin;15.4
+London;16.2
+Oslo;19.1
+Berlin;-5.7
+Manaus;-18.8
+Dallas;-1.9
+Seoul;-23.0
+Turin;11.4
+Amman;18.0
+La Paz;14.3
+Los Angeles;25.5
+Houston;8.6
+Jakarta;0.8
+Baghdad;7.2
+Naples;43.9
+Munich;6.7
+Porto;-20.9
+New York;39.3
+Barcelona;3.2
+Tashkent;-2.8
+Berlin;11.8
+Quito;1.0
+Fortaleza;-4.9
+Dublin;31.5
+Tokyo;44.4
+Tokyo;-16.1
+Istanbul;23.8
+Naples;36.4
+Salvador;-3.7
+Porto;-9.4
+Yangon;11.6
+Singapore;32.8
+Oslo;-26.0
+Yangon;7.3
+Chicago;4.8
+Liverpool;-2.9
+Seoul;-13.0
+Tehran;-29.6
+Zurich;-28.2
+Cologne;42.9
+Austin;17.4
+Vientiane;17.0
+Pyongyang;-6.3
+Lima;35.3
+Boston;38.8
+Phoenix;38.5
+Munich;-29.1
+Reykjavik;-16.7
+Austin;27.8
+Kuala Lumpur;37.6
+Seville;6.7
+Porto Alegre;26.9
+Atlanta;-0.1
+Beirut;30.1
+Kathmandu;40.0
+Chicago;2.2
+Quito;34.6
+Dhaka;33.4
+Manaus;42.6
+Auckland;33.1
+Ashgabat;-9.7
+Melbourne;16.4
+Auckland;-8.8
+Barcelona;41.3
+Portland;32.8
+Santiago;6.3
+Yangon;40.8
+Tokyo;-6.1
+Budapest;-13.5
+Nairobi;22.3
+Brasília;16.7
+Manila;0.0
+Phoenix;-19.5
+Austin;-26.1
+Warsaw;14.4
+Baghdad;44.2
+Lima;21.4
+Caracas;3.3
+Cape Town;-0.9
+Toronto;-17.9
+Venice;21.3
+Chennai;-8.0
+Houston;22.6
+Florence;22.6
+Stuttgart;-8.2
+Cape Town;23.4
+Rio de Janeiro;-23.4
+Bogotá;-27.7
+Milan;22.1
+Quito;42.8
+Sydney;41.4
+Toronto;-0.0
+Bangkok;44.9
+Ashgabat;22.4
+Las Vegas;24.4
+Vienna;-0.7
+Rome;14.0
+Chennai;-5.0
+Bangalore;44.7
+Edinburgh;-29.5
+Melbourne;-4.3
+Damascus;-8.2
+London;-19.2
+Brasília;39.4
+Amman;-20.9
+Bangalore;22.7
+Toronto;-17.8
+Caracas;43.8
+Houston;24.1
+Beirut;4.6
+Glasgow;-15.6
+Oslo;40.0
+Denver;43.7
+Recife;34.9
+Helsinki;23.9
+Moscow;-28.8
+Buenos Aires;36.6
+Muscat;33.2
+Phnom Penh;38.4
+Barcelona;2.7
+Manchester;-29.9
+Lisbon;-6.8
+Vancouver;-6.3
+Moscow;40.4
+Turin;1.3
+Chicago;-17.3
+Denver;-19.6
+Kuwait City;11.3
+Los Angeles;40.8
+Dublin;-5.6
+Belém;16.7
+Hanoi;2.5
+Vienna;-13.7
+Damascus;25.8
+Miami;14.5
+Moscow;37.2
+Porto Alegre;9.4
+Kabul;28.6
+Cairo;-11.0
+Baghdad;32.4
+Manila;-9.7
+Munich;42.6
+Hong Kong;43.5
+Quito;25.8
+Delhi;33.4
+Colombo;40.5
+Glasgow;-8.8
+Naples;37.0
+Warsaw;6.3
+Jakarta;7.3
+Ho Chi Minh City;44.3
+Dubai;20.2
+Brasília;13.4
+Chennai;40.8
+Miami;35.7
+Phoenix;1.7
+Edinburgh;41.5
+Atlanta;29.4
+Valencia;42.6
+Amman;-20.8
+Rio de Janeiro;-24.9
+Amsterdam;-17.8
+Belo Horizonte;15.5
+Baghdad;26.0
+Dushanbe;39.4
+Rio de Janeiro;10.0
+Reykjavik;-5.2
+Dushanbe;34.3
+Kuwait City;-1.6
+Kathmandu;-2.9
+Houston;4.8
+Stuttgart;39.9
+Kuala Lumpur;21.9
+Lagos;36.3
+Curitiba;5.4
+Naples;39.7
+La Paz;-29.0
+Barcelona;-8.6
+Fortaleza;35.3
+Chennai;-17.5
+Fortaleza;-2.3
+Turin;29.0
+Riyadh;-17.2
+Santiago;-10.9
+Berlin;24.7
+Barcelona;20.6
+London;-0.8
+Atlanta;16.4
+Manaus;21.8
+Salvador;-21.9
+Bishkek;-15.3
+Lisbon;26.1
+New York;-18.9
+Bangkok;8.5
+Muscat;5.3
+London;5.9
+Seattle;-8.7
+Hanoi;-26.1
+Kolkata;27.8
+Caracas;-24.3
+Phnom Penh;7.4
+Seattle;4.6
+Valencia;-12.1
+Kuwait City;30.0
+Montreal;-10.4
+Tokyo;-14.5
+Manila;-19.2
+Miami;26.8
+Helsinki;38.5
+Birmingham;-1.6
+Tokyo;3.9
+São Paulo;2.8
+Bangalore;21.4
+Kolkata;36.3
+Paris;-4.1
+Brussels;-0.5
+Beijing;27.7
+Vancouver;43.6
+Cape Town;-20.3
+Atlanta;-16.6
+Beijing;-22.1
+Istanbul;23.2
+Fortaleza;39.6
+Rome;8.2
+Damascus;-28.5
+Paris;25.8
+São Paulo;20.2
+Frankfurt;38.7
+Karachi;-28.9
+Vienna;36.6
+Dubai;29.8
+New York;-26.7
+Munich;32.6
+Lagos;43.3
+Fortaleza;39.5
+Los Angeles;8.3
+Barcelona;-5.6
+Los Angeles;-9.9
+Glasgow;-25.7
+Naples;-14.8
+Amsterdam;24.5
+Budapest;28.4
+Salvador;21.0
+Caracas;-14.7
+Melbourne;34.1
+Los Angeles;34.5
+Vancouver;4.4
+Sydney;2.2
+Karachi;-7.2
+Moscow;-23.7
+Brasília;35.0
+Ulaanbaatar;-19.3
+Bogotá;-1.2
+Bangkok;43.9
+Baghdad;22.5
+Dublin;-2.6
+Recife;-11.4
+Amsterdam;7.0
+Pyongyang;-4.5
+Damascus;37.5
+Tokyo;-20.5
+Madrid;-1.8
+Austin;30.2
+Kuwait City;7.3
+Brussels;-10.6
+New York;20.6
+Athens;45.0
+Chicago;24.4
+Belo Horizonte;-9.2
+Bogotá;6.9
+New York;-10.2
+Rome;-22.9
+Oslo;20.6
+Recife;-26.0
+New York;1.4
+Tashkent;-2.5
+Manila;-13.0
+Dhaka;9.8
+Kuala Lumpur;1.8
+Edinburgh;43.7
+Moscow;-1.1
+Quito;29.3
+Monterrey;29.2
+Ashgabat;-10.2
+Bangalore;-26.8
+Naples;-1.3
+Cairo;42.1
+Rio de Janeiro;36.1
+Recife;2.7
+Cairo;35.4
+Florence;43.4
+Denver;13.1
+Dallas;20.6
+Goiânia;-15.2
+Florence;8.8
+Buenos Aires;-25.0
+Vientiane;13.6
+Edinburgh;42.0
+Berlin;27.6
+Shanghai;-8.7
+Curitiba;15.9
+Salvador;42.4
+Sanaa;3.1
+Brussels;-6.3
+Naples;37.9
+Florence;-0.4
+Phoenix;-21.2
+Vienna;36.3
+Monterrey;-2.7
+Helsinki;18.3
+Riyadh;34.0
+Milan;-15.2
+Manchester;-13.0
+Muscat;27.3
+Rio de Janeiro;-7.9
+Boston;7.2
+London;-29.2
+Porto Alegre;-28.3
+Florence;30.7
+Busan;-8.9
+Prague;37.3
+San Francisco;-26.0
+Pyongyang;35.7
+Copenhagen;-20.5
+Oslo;24.8
+London;4.2
+Phnom Penh;10.0
+Brussels;-26.8
+Oslo;-4.6
+Bishkek;-22.8
+Reykjavik;37.1
+Baghdad;-1.8
+Edinburgh;2.4
+Curitiba;35.9
+Bangkok;14.1
+London;-13.5
+Rome;-16.0
+Brasília;11.3
+Munich;26.9
+Kabul;11.2
+Athens;12.1
+Hanoi;26.6
+Portland;18.2
+Phoenix;18.6
+Stuttgart;-14.7
+Paris;-10.2
+Naples;41.2
+Hanoi;0.7
+Pyongyang;28.2
+Cape Town;-0.4
+Cairo;39.9
+Jerusalem;-19.0
+Rio de Janeiro;28.2
+New York;14.0
+Stuttgart;20.7
+Lima;-13.4
+Phnom Penh;15.9
+Manchester;40.9
+Cairo;-11.4
+Edinburgh;-3.0
+Bishkek;0.2
+Stuttgart;36.1
+Kabul;25.6
+Almaty;-25.6
+Istanbul;7.9
+Oslo;-28.0
+Porto;2.1
+Almaty;-21.6
+La Paz;-28.5
+Rome;5.9
+Munich;43.3
+Dubai;-28.9
+Guadalajara;-20.4
+Bangalore;18.8
+Geneva;4.1
+Kuwait City;-29.8
+Ankara;-21.8
+Ankara;26.4
+Bangkok;38.5
+Almaty;41.0
+Las Vegas;33.6
+Muscat;30.6
+Baghdad;16.5
+Geneva;-7.6
+Dubai;42.8
+Reykjavik;6.2
+Beirut;-14.0
+Kolkata;39.7
+Muscat;-9.4
+Recife;-29.7
+Kuwait City;-1.4
+Venice;43.9
+Bishkek;2.9
+Bangalore;21.8
+Belém;12.5
+Shanghai;-12.3
+Denver;18.5
+Beirut;-19.1
+Madrid;-0.3
+Goiânia;41.3
+Portland;32.6
+Kolkata;9.1
+Boston;-1.2
+Manila;27.7
+Florence;0.8
+Glasgow;21.3
+Manchester;40.2
+Guadalajara;36.0
+Hong Kong;-27.4
+Las Vegas;42.1
+Prague;-14.7
+Valencia;-5.7
+Valencia;-18.5
+Jerusalem;-11.5
+London;-28.7
+Frankfurt;24.2
+Nairobi;-10.8
+Milan;31.5
+London;11.2
+Doha;17.1
+Dushanbe;27.9
+Denver;-13.5
+Venice;21.4
+Bangkok;-19.3
+Jakarta;23.4
+Vancouver;-20.2
+Seville;-1.9
+Munich;28.5
+Curitiba;13.1
+Ankara;27.2
+Warsaw;8.7
+Vancouver;4.3
+Milan;-18.0
+Denver;26.7
+Los Angeles;43.4
+Paris;35.3
+Vienna;44.5
+Guadalajara;2.7
+Naples;22.2
+Colombo;-9.3
+Barcelona;40.3
+Ulaanbaatar;-4.4
+Kabul;-8.1
+Seville;27.4
+Caracas;35.5
+Los Angeles;-17.6
+Manchester;-0.6
+Manaus;-4.2
+Florence;-4.4
+Turin;6.3
+Chennai;17.0
+Dushanbe;31.0
+Chicago;-29.2
+Recife;-15.1
+Curitiba;39.8
+Lima;-20.8
+Kabul;7.5
+São Paulo;-15.2
+Damascus;31.3
+Manila;1.8
+Miami;-23.8
+Almaty;33.9
+Moscow;5.8
+Delhi;18.9
+Beijing;-13.1
+Istanbul;-15.9
+Atlanta;-28.5
+Miami;39.7
+Kabul;-1.1
+Geneva;7.0
+Chennai;43.5
+Bangalore;40.0
+Recife;-2.2
+Belém;-30.0
+Valencia;27.3
+Mexico City;29.5
+Moscow;9.0
+Jerusalem;-1.8
+Kuala Lumpur;-18.1
+Manchester;-6.4
+Vientiane;28.5
+Naples;42.7
+Sanaa;-4.1
+Porto;0.6
+Belo Horizonte;8.0
+Melbourne;2.9
+Dubai;-15.3
+Manila;37.8
+Copenhagen;-26.1
+Caracas;41.7
+Vancouver;33.4
+Rio de Janeiro;-8.2
+Porto;-1.8
+Quito;34.5
+Damascus;41.3
+Monterrey;36.3
+Lima;21.2
+Colombo;-27.1
+Moscow;-3.5
+Manaus;-26.6
+Los Angeles;-4.0
+Ashgabat;-8.7
+Sanaa;7.9
+Quito;16.4
+Kabul;-12.0
+Frankfurt;-12.4
+Muscat;-27.1
+Tashkent;20.8
+Ulaanbaatar;29.5
+Baghdad;21.6
+Damascus;-27.1
+Doha;33.9
+Amman;-0.8
+Colombo;19.9
+Houston;-14.3
+Denver;33.3
+Santiago;-17.1
+Shanghai;-10.2
+Miami;-19.0
+Mexico City;17.6
+Baghdad;20.1
+Frankfurt;36.8
+Phnom Penh;31.6
+Belém;-23.1
+Mexico City;-12.7
+Manila;35.3
+Tokyo;2.9
+Damascus;6.0
+Quito;12.8
+Lisbon;-16.5
+São Paulo;39.8
+Fortaleza;37.1
+Denver;-2.6
+Ho Chi Minh City;-22.5
+Stuttgart;0.0
+Guadalajara;-5.9
+Monterrey;44.6
+Madrid;22.2
+Bogotá;-13.0
+Salvador;17.9
+Karachi;-19.5
+Damascus;14.5
+Muscat;-5.8
+Kathmandu;-14.2
+Zurich;16.2
+Buenos Aires;-26.7
+Budapest;-7.1
+Melbourne;22.4
+Dallas;-22.7
+Oslo;-25.6
+Phoenix;-18.2
+Las Vegas;-15.3
+Ho Chi Minh City;34.3
+Budapest;7.1
+Delhi;9.2
+Bangkok;-14.6
+Austin;-20.5
+Helsinki;27.8
+Seoul;38.5
+Santiago;42.3
+Chennai;-28.8
+Beijing;30.2
+Dublin;19.8
+Brussels;-15.7
+Berlin;-6.0
+Caracas;1.4
+Vancouver;24.7
+Frankfurt;39.5
+Quito;20.9
+Cologne;15.2
+Phnom Penh;27.0
+Budapest;4.0
+Kuwait City;36.6
+Jerusalem;-13.0
+Prague;-2.2
+Paris;10.8
+Colombo;-7.1
+Manaus;8.2
+Jakarta;22.8
+Rio de Janeiro;-2.3
+Ho Chi Minh City;-4.1
+Las Vegas;19.8
+Bangkok;39.7
+Quito;29.5
+Seattle;11.1
+Pyongyang;33.2
+Glasgow;27.8
+London;1.7
+Chicago;8.8
+Monterrey;3.8
+Atlanta;16.1
+Vienna;12.3
+Prague;43.7
+Warsaw;9.9
+Phnom Penh;-15.5
+Denver;-8.4
+San Francisco;1.2
+Amman;6.4
+São Paulo;-25.3
+Rio de Janeiro;17.6
+Jerusalem;-0.9
+Hong Kong;-8.5
+Geneva;9.2
+Fortaleza;-25.0
+Copenhagen;-23.1
+Naples;13.5
+Cairo;13.0
+Warsaw;-13.4
+Athens;39.7
+Budapest;-3.3
+Paris;43.8
+Milan;38.4
+Busan;4.7
+Bangkok;9.7
+Busan;15.4
+Guadalajara;0.7
+Portland;-28.7
+Geneva;15.1
+Copenhagen;12.4
+Guadalajara;28.6
+Jerusalem;9.3
+Tokyo;9.4
+Rio de Janeiro;18.4
+Goiânia;30.9
+Hong Kong;26.9
+Damascus;10.6
+Brasília;35.6
+Kathmandu;-25.7
+Guadalajara;-25.7
+Brussels;22.8
+Manchester;40.5
+Brussels;24.8
+Dhaka;31.6
+Recife;20.9
+Shanghai;6.1
+Stuttgart;31.7
+Auckland;36.1
+Mumbai;0.7
+Sanaa;-19.3
+Amsterdam;3.4
+Manchester;19.3
+Manchester;-9.8
+Sanaa;-22.6
+Delhi;-14.4
+Curitiba;-5.9
+Vienna;44.8
+Las Vegas;-8.7
+Bangalore;-21.2
+Beirut;28.2
+Melbourne;10.4
+Seattle;4.6
+Bishkek;-29.3
+Sydney;-2.9
+Glasgow;44.2
+Jerusalem;40.7
+Goiânia;5.1
+Vancouver;-19.9
+Rio de Janeiro;-17.5
+Shanghai;-16.0
+Manila;39.1
+Rome;-18.6
+Athens;35.2
+Manila;-13.8
+Munich;43.8
+Atlanta;8.5
+Ulaanbaatar;-22.8
+Oslo;-21.1
+Chennai;4.6
+Belo Horizonte;-18.2
+Shanghai;0.8
+Phnom Penh;-22.8
+Shanghai;14.5
+Kuwait City;24.1
+Busan;-14.5
+Pyongyang;38.2
+Atlanta;35.0
+Phnom Penh;31.0
+Atlanta;0.1
+Nairobi;11.4
+Seoul;15.2
+Jakarta;39.1
+Amman;21.3
+Budapest;6.6
+Amsterdam;4.7
+Vientiane;-3.7
+London;20.6
+Dushanbe;-27.3
+Montreal;-5.7
+Kuwait City;23.9
+Yangon;15.8
+Hong Kong;28.5
+Valencia;0.8
+Edinburgh;42.6
+Edinburgh;17.0
+Brasília;4.3
+Copenhagen;11.1
+Kathmandu;-25.3
+Ashgabat;32.7
+La Paz;18.4
+La Paz;-10.2
+Austin;-23.5
+Ulaanbaatar;22.4
+Barcelona;18.9
+Frankfurt;13.0
+Dallas;-13.6
+Stockholm;22.1
+Lagos;-10.8
+Stuttgart;42.6
+Almaty;-7.0
+Karachi;9.0
+Florence;16.0
+Mumbai;-0.4
+Mexico City;31.6
+Vienna;16.4
+Lima;34.5
+Seville;-16.3
+Nairobi;-23.1
+Bangkok;4.7
+Phnom Penh;0.2
+Tokyo;24.9
+Kathmandu;-26.4
+Manchester;23.9
+Beijing;37.1
+Baghdad;29.3
+Guadalajara;5.6
+Toronto;37.9
+Vientiane;-28.2
+Caracas;-12.6
+Ashgabat;28.8
+New York;12.2
+Lisbon;18.9
+Lima;-28.7
+Dushanbe;24.1
+Naples;-24.6
+Naples;-24.6
+Bangalore;7.6
+Montreal;19.1
+Ho Chi Minh City;26.8
+Brasília;-28.3
+Kathmandu;31.7
+Almaty;15.9
+São Paulo;21.9
+Boston;-5.1
+Helsinki;6.5
+Rome;35.7
+Lisbon;11.8
+Rome;7.5
+Melbourne;-17.8
+Cologne;44.8
+Busan;16.9
+Portland;-18.9
+Amman;-23.0
+Dhaka;3.8
+Manaus;41.1
+Delhi;14.1
+Helsinki;-15.4
+Sanaa;8.5
+Edinburgh;10.1
+Athens;-8.5
+Yangon;-6.9
+Frankfurt;-17.9
+Bogotá;8.7
+Lima;17.0
+Kolkata;-16.7
+Berlin;5.5
+Nairobi;0.6
+Lagos;10.4
+Copenhagen;39.2
+Venice;1.3
+Moscow;-20.7
+New York;33.4
+Kolkata;6.1
+Copenhagen;30.9
+Almaty;28.6
+Toronto;38.4
+Reykjavik;22.0
+Auckland;40.7
+Almaty;29.7
+Barcelona;-16.5
+Paris;21.0
+Miami;-18.3
+Mumbai;26.1
+Copenhagen;18.4
+Seville;20.3
+Dublin;2.1
+New York;11.6
+Mexico City;-6.5
+Cairo;20.6
+Porto;29.4
+Mexico City;3.0
+Reykjavik;11.8
+Kathmandu;31.2
+Karachi;24.2
+Belo Horizonte;-24.8
+Rome;-9.6
+Tokyo;-7.6
+Brussels;29.4
+Turin;-1.0
+Seoul;42.4
+Beirut;-2.5
+Yangon;-21.6
+Lagos;-26.4
+Belém;-19.9
+Fortaleza;-20.4
+Pyongyang;0.1
+Busan;32.3
+Porto Alegre;-11.9
+Ulaanbaatar;6.1
+Damascus;-27.9
+Karachi;-24.1
+Birmingham;31.5
+Singapore;26.6
+Melbourne;40.1
+Vienna;-11.1
+Porto;11.6
+Geneva;1.3
+Curitiba;27.0
+Hong Kong;-6.9
+Warsaw;3.3
+Florence;2.3
+Doha;-15.6
+La Paz;13.7
+Toronto;13.9
+Kuwait City;5.1
+Atlanta;27.0
+Riyadh;-2.5
+Montreal;39.4
+Yangon;-29.2
+Fortaleza;8.0
+Athens;-14.8
+Birmingham;-15.2
+Porto;-29.4
+Colombo;40.2
+Doha;42.9
+Quito;36.8
+Pyongyang;30.0
+Beijing;21.2
+Quito;42.0
+São Paulo;3.6
+Portland;6.8
+Toronto;29.9
+Yangon;11.8
+São Paulo;-1.5
+Guadalajara;-28.5
+Copenhagen;16.8
+Amsterdam;38.6
+Riyadh;-0.2
+Prague;-20.7
+Sanaa;13.6
+Yangon;38.2
+Quito;22.6
+Kuala Lumpur;-24.8
+Amman;42.1
+Hanoi;10.1
+Yangon;25.0
+Porto;-20.9
+Barcelona;-19.9
+Ankara;-22.1
+Ho Chi Minh City;31.6
+Pyongyang;-9.8
+Florence;43.6
+Sydney;-28.4
+Madrid;2.6
+Berlin;-7.0
+Cologne;9.8
+Jerusalem;27.0
+Munich;34.9
+Moscow;-17.8
+Lagos;42.5
+Hanoi;-27.0
+Guadalajara;22.1
+Dallas;39.3
+Valencia;22.0
+Vienna;0.8
+Brasília;-24.6
+Riyadh;-20.2
+Kabul;14.0
+Monterrey;22.2
+Guadalajara;38.6
+Almaty;27.2
+Singapore;-25.2
+Beirut;28.8
+Kuwait City;-29.1
+Kuwait City;30.2
+Manila;-22.1
+New York;-4.3
+Sydney;40.9
+Melbourne;26.5
+Manchester;14.4
+Recife;15.0
+Colombo;-12.4
+Helsinki;31.0
+Rome;-26.3
+Munich;23.4
+Mumbai;-19.5
+Dushanbe;31.8
+Birmingham;38.6
+Chicago;-19.1
+Hong Kong;20.7
+Melbourne;31.0
+Jerusalem;-1.6
+Fortaleza;-15.7
+Lisbon;-29.8
+Bishkek;17.3
+Bangalore;21.7
+Mumbai;37.4
+Boston;23.2
+Copenhagen;6.1
+Boston;0.1
+Baghdad;-18.0
+Ankara;-17.8
+San Francisco;-9.1
+Cairo;3.5
+Damascus;-18.3
+Yangon;-7.2
+Ulaanbaatar;38.7
+Brussels;42.5
+Doha;-17.3
+Mexico City;9.2
+Seville;30.6
+Atlanta;-2.4
+Beirut;20.7
+Zurich;-29.2
+Beirut;-20.6
+Kuwait City;-29.2
+Reykjavik;-7.5
+La Paz;-27.7
+Cairo;5.1
+Sydney;0.5
+Santiago;-8.7
+Amsterdam;26.0
+Tokyo;-0.4
+Venice;-29.8
+Sanaa;20.1
+Monterrey;-26.1
+Dushanbe;17.9
+New York;2.3
+Bogotá;35.1
+Guadalajara;-28.9
+Kabul;-18.2
+Hamburg;-21.0
+Tokyo;-23.4
+Los Angeles;-8.5
+Madrid;8.8
+Los Angeles;24.3
+Recife;24.6
+Beijing;-0.3
+Las Vegas;7.2
+Dhaka;-19.2
+Chicago;8.6
+Brasília;-23.9
+Manila;-24.2
+Almaty;4.3
+Phoenix;20.3
+Tokyo;-28.7
+Hamburg;3.8
+Karachi;30.3
+New York;43.7
+Austin;4.6
+Oslo;-3.7
+La Paz;32.3
+New York;-13.7
+Jerusalem;35.6
+San Francisco;25.6
+Fortaleza;43.4
+Baghdad;-22.1
+Phnom Penh;37.4
+Madrid;33.2
+Atlanta;42.9
+Geneva;21.2
+Copenhagen;40.7
+São Paulo;0.5
+Monterrey;12.5
+Fortaleza;13.8
+Auckland;-4.3
+Valencia;-0.1
+Stuttgart;-21.1
+Vienna;-29.0
+Porto;20.9
+Frankfurt;-1.0
+Singapore;-23.3
+Milan;5.5
+Tashkent;33.6
+Dallas;28.7
+Budapest;43.6
+Naples;4.6
+Santiago;-2.2
+Porto Alegre;-5.8
+Beirut;19.2
+Colombo;44.1
+Stockholm;-29.3
+Warsaw;3.2
+Milan;-16.0
+Nairobi;37.1
+San Francisco;-0.2
+Hamburg;29.5
+Salvador;29.7
+Los Angeles;30.4
+Madrid;8.3
+Vienna;42.0
+Kabul;-28.3
+Venice;-10.9
+Manila;-2.7
+Muscat;-24.8
+Austin;23.1
+Caracas;-6.9
+Dhaka;14.3
+Helsinki;28.8
+London;-21.7
+Munich;-22.0
+Guadalajara;-26.6
+Milan;23.9
+Amsterdam;12.2
+Turin;36.7
+São Paulo;40.9
+Las Vegas;-6.9
+Amsterdam;-3.1
+Birmingham;5.5
+Salvador;-3.2
+Doha;-17.5
+San Francisco;13.8
+Muscat;-15.5
+La Paz;-29.5
+Cairo;24.4
+Hanoi;18.7
+Phnom Penh;-21.8
+Ho Chi Minh City;27.2
+London;11.2
+Santiago;-9.3
+Kathmandu;6.4
+Riyadh;29.2
+Kuala Lumpur;-24.1
+Goiânia;40.9
+Rio de Janeiro;-7.0
+Rio de Janeiro;21.3
+Tashkent;34.4
+Atlanta;17.4
+Birmingham;-27.2
+Rome;-23.3
+Brussels;31.5
+Curitiba;-21.3
+Chicago;36.4
+Valencia;27.8
+Lagos;24.8
+Tehran;-25.8
+Salvador;-6.5
+Dallas;-25.2
+Prague;-8.1
+Kathmandu;37.1
+Valencia;-1.4
+Tashkent;-12.6
+Warsaw;-3.5
+Istanbul;4.4
+Dhaka;-5.2
+Lisbon;34.4
+Venice;34.1
+Austin;3.3
+Almaty;-21.0
+Pyongyang;18.8
+Buenos Aires;18.1
+Liverpool;-13.7
+Salvador;28.3
+Nairobi;-0.4
+Baghdad;-11.7
+Montreal;-24.5
+Kathmandu;1.1
+New York;2.2
+Reykjavik;-19.1
+Rome;3.1
+Phoenix;41.6
+Stockholm;-19.0
+Tehran;4.3
+Bangalore;43.6
+Pyongyang;30.4
+Colombo;8.9
+Muscat;20.2
+Manaus;23.9
+Jerusalem;26.0
+Kathmandu;12.1
+Prague;30.2
+Reykjavik;41.6
+Damascus;12.7
+Manila;35.3
+Bangkok;-0.5
+Bangalore;-18.1
+Jerusalem;-20.7
+Tehran;-21.5
+Damascus;-23.5
+Salvador;-13.1
+Dushanbe;13.2
+Singapore;-6.9
+Auckland;29.2
+Bangalore;8.0
+Athens;-4.6
+Hanoi;20.0
+Caracas;-24.7
+Cape Town;-27.5
+Almaty;44.0
+Almaty;36.1
+Pyongyang;23.3
+Recife;-23.2
+Dhaka;8.9
+Jakarta;33.2
+Rio de Janeiro;34.6
+Boston;37.1
+Kabul;17.9
+Istanbul;13.0
+Istanbul;11.0
+Frankfurt;42.9
+Prague;28.2
+Dubai;-14.1
+Oslo;-17.5
+Nairobi;8.1
+Belo Horizonte;-4.9
+Barcelona;9.0
+Dushanbe;-28.2
+Salvador;0.8
+Damascus;17.9
+Mexico City;12.3
+Ho Chi Minh City;6.6
+Barcelona;20.5
+Oslo;-9.1
+Copenhagen;33.3
+Singapore;-29.8
+Hamburg;42.7
+Lisbon;-1.6
+Ho Chi Minh City;15.4
+Colombo;-5.8
+Lisbon;-9.7
+Bogotá;24.0
+San Francisco;-18.6
+Birmingham;9.7
+Paris;-8.7
+Hanoi;-4.0
+Helsinki;12.1
+Kuwait City;-4.3
+Melbourne;43.4
+Seville;-1.9
+Jakarta;3.9
+Dallas;4.8
+La Paz;-24.1
+Almaty;-8.6
+Cape Town;2.1
+Paris;-6.3
+Lima;-28.8
+Florence;30.3
+Belém;-12.0
+Boston;-11.1
+Brussels;-22.6
+Seattle;-19.2
+Geneva;39.6
+Riyadh;-23.5
+Phnom Penh;42.9
+Moscow;-4.7
+Santiago;-30.0
+Helsinki;-21.0
+Nairobi;42.2
+Porto Alegre;2.5
+Stuttgart;22.7
+Moscow;6.4
+Tashkent;-3.8
+Rome;12.4
+Hamburg;-25.7
+Bangalore;2.0
+Amman;-27.7
+Recife;6.8
+Miami;-26.7
+Beijing;10.4
+Budapest;-17.3
+Dushanbe;-26.8
+Baghdad;-24.2
+Hanoi;37.6
+Fortaleza;-25.0
+Bishkek;37.2
+San Francisco;12.9
+Sanaa;-19.4
+Bogotá;-14.9
+Lisbon;38.1
+Las Vegas;4.5
+Edinburgh;8.3
+Stuttgart;30.5
+Doha;20.5
+Madrid;10.0
+Portland;31.2
+Atlanta;1.4
+Florence;38.1
+Seoul;-17.0
+Bangkok;13.6
+Shanghai;37.4
+Delhi;-5.5
+Dublin;30.2
+Dhaka;-28.5
+Cairo;11.4
+Birmingham;23.4
+Cairo;-7.7
+Edinburgh;-21.4
+Brussels;11.7
+London;-23.5
+Muscat;31.1
+Munich;8.7
+Cologne;12.1
+Riyadh;-21.3
+London;3.5
+Colombo;-0.6
+Valencia;24.0
+Denver;43.5
+Prague;17.7
+Fortaleza;27.8
+Rome;-2.0
+Boston;-8.8
+Belém;10.4
+Atlanta;-20.9
+Lima;-18.5
+Cairo;29.6
+Toronto;-16.4
+Tashkent;-24.9
+Turin;25.6
+Tehran;5.2
+Jakarta;1.2
+Barcelona;27.0
+Dhaka;-16.8
+Recife;-25.4
+Shanghai;-10.5
+Geneva;32.5
+Liverpool;27.2
+Yangon;36.3
+Stuttgart;23.2
+Belo Horizonte;6.0
+Austin;18.7
+Milan;-16.7
+Tashkent;-10.0
+Guadalajara;-5.6
+Stuttgart;16.0
+Zurich;-13.5
+Lima;41.3
+Amman;22.6
+Karachi;36.0
+Recife;44.1
+Vienna;20.4
+Quito;-16.6
+Ashgabat;19.4
+Montreal;16.9
+Manaus;2.3
+Goiânia;20.6
+Muscat;-28.2
+Riyadh;-14.4
+Tashkent;-1.1
+Venice;-21.3
+Toronto;11.2
+Sydney;-19.2
+Miami;31.3
+Dushanbe;20.4
+Birmingham;38.4
+Chennai;26.7
+Belém;29.2
+Manaus;-15.3
+Stuttgart;-13.8
+Chicago;26.2
+Mumbai;-4.9
+Recife;39.8
+Vancouver;31.4
+Almaty;-22.1
+Singapore;7.2
+San Francisco;13.2
+Mumbai;-25.4
+Zurich;-10.9
+Los Angeles;-13.5
+Vientiane;2.1
+Naples;-2.8
+Milan;3.9
+Almaty;40.3
+Fortaleza;20.3
+Seoul;-9.7
+Naples;23.5
+Stuttgart;26.8
+Hong Kong;-13.7
+Boston;-17.5
+Brussels;-27.2
+Glasgow;44.0
+Santiago;-13.2
+Turin;0.7
+Lisbon;-6.2
+Amman;-20.2
+London;-28.5
+Melbourne;27.6
+Copenhagen;-7.6
+Quito;-19.7
+Riyadh;-11.0
+Liverpool;42.6
+Fortaleza;-24.0
+Amsterdam;24.6
+La Paz;11.7
+Barcelona;-23.2
+Munich;-8.1
+Belém;25.1
+Salvador;11.7
+Miami;29.4
+Jerusalem;44.5
+Shanghai;-0.6
+Bangalore;-3.7
+Manaus;43.0
+Manila;28.8
+Santiago;-0.4
+La Paz;16.6
+Brasília;-11.4
+Hanoi;7.0
+Geneva;-1.0
+New York;-23.6
+Barcelona;-1.3
+Vancouver;-14.7
+Goiânia;13.9
+Porto;-23.8
+Glasgow;1.2
+Moscow;29.6
+Beijing;-23.5
+La Paz;6.5
+Rome;-20.0
+Almaty;-12.8
+Toronto;29.5
+São Paulo;44.3
+Baghdad;-25.8
+Phoenix;11.8
+Bangalore;3.3
+Hamburg;3.7
+Tashkent;4.1
+Beirut;-14.0
+Lisbon;1.4
+Ankara;32.5
+Las Vegas;-2.5
+Dushanbe;-23.7
+Budapest;-19.1
+Vancouver;15.8
+Kabul;42.5
+Melbourne;5.3
+Colombo;4.0
+Tashkent;12.0
+Milan;13.3
+Goiânia;-15.0
+Kuala Lumpur;28.0
+Melbourne;34.4
+Doha;22.5
+Prague;-6.8
+Kuwait City;-27.1
+São Paulo;33.4
+Ulaanbaatar;-17.5
+Sanaa;2.8
+Seoul;-27.8
+Oslo;-4.6
+Hanoi;37.0
+Boston;-22.3
+Mexico City;-5.1
+Beirut;-19.1
+Beirut;-27.3
+Budapest;16.5
+Cape Town;21.2
+Lagos;6.4
+Florence;0.6
+Hanoi;10.4
+Tokyo;44.7
+Oslo;-11.6
+Damascus;38.4
+Manchester;43.8
+Moscow;23.5
+Kuala Lumpur;-18.5
+Houston;26.7
+Rome;-19.1
+Mexico City;13.7
+Stockholm;-12.8
+Kuala Lumpur;12.9
+Manaus;-21.5
+Birmingham;41.0
+Buenos Aires;-21.6
+Austin;2.5
+Lima;-22.9
+Ho Chi Minh City;-8.1
+Budapest;-25.2
+Goiânia;16.2
+Guadalajara;-26.0
+Vientiane;38.1
+Bangkok;-2.4
+Houston;-11.2
+Santiago;8.6
+Goiânia;-0.6
+Paris;-10.1
+Glasgow;19.0
+Turin;6.2
+Reykjavik;-21.2
+Kuwait City;-1.0
+London;1.1
+London;40.4
+Hong Kong;13.0
+Bangkok;35.6
+Kolkata;-17.9
+Porto Alegre;5.5
+Toronto;12.8
+Los Angeles;9.4
+Montreal;25.0
+Milan;-25.2
+Montreal;36.1
+Dhaka;6.1
+Zurich;-25.0
+Geneva;23.5
+Venice;12.6
+Seville;18.5
+Recife;21.8
+Muscat;6.6
+Lagos;-0.2
+Moscow;15.7
+Amsterdam;33.8
+Prague;35.1
+Glasgow;-27.3
+Budapest;-19.0
+Budapest;31.4
+Kathmandu;20.0
+Porto Alegre;28.6
+Curitiba;4.3
+Salvador;17.0
+Dublin;9.8
+Nairobi;40.6
+Naples;39.9
+Prague;29.7
+Manila;10.6
+Bangkok;-29.1
+New York;32.9
+Guadalajara;38.7
+Yangon;35.8
+Almaty;37.9
+Birmingham;-1.5
+Caracas;30.9
+Prague;-10.7
+London;3.5
+Auckland;19.0
+Toronto;30.0
+Kolkata;27.7
+Montreal;-10.5
+Vientiane;26.3
+Manaus;0.4
+Copenhagen;-9.5
+Helsinki;26.0
+Helsinki;39.1
+Buenos Aires;-26.7
+Dallas;16.3
+Geneva;11.9
+Frankfurt;1.8
+Beijing;-23.9
+Colombo;18.0
+Beirut;36.9
+Kathmandu;0.3
+Boston;1.6
+Jerusalem;-21.2
+Busan;42.0
+Caracas;10.3
+Stuttgart;-14.1
+Belo Horizonte;-1.4
+Houston;34.1
+Yangon;-15.7
+Montreal;-10.6
+Colombo;3.9
+Rome;28.7
+São Paulo;3.2
+Bangalore;0.7
+Bangkok;-25.3
+Quito;11.6
+Paris;-2.9
+Jakarta;-29.8
+Lisbon;25.4
+Cairo;-23.6
+Copenhagen;-5.1
+Copenhagen;27.8
+Chennai;19.5
+Warsaw;37.3
+Florence;41.4
+Munich;1.1
+Tehran;25.3
+Edinburgh;-23.0
+Athens;10.4
+Mexico City;-14.2
+Istanbul;21.0
+Hanoi;5.4
+Glasgow;10.5
+Salvador;43.4
+Chicago;-10.6
+Seattle;1.9
+Florence;2.7
+Kathmandu;-24.0
+Tokyo;27.1
+Liverpool;14.7
+Phoenix;-8.5
+Warsaw;-18.2
+New York;34.4
+Porto Alegre;30.4
+Vienna;-20.5
+Turin;-6.7
+Fortaleza;-19.4
+Lima;26.2
+Phnom Penh;-7.3
+Curitiba;-24.1
+Kuwait City;23.1
+Mumbai;3.6
+Delhi;10.3
+Kolkata;42.3
+Bishkek;-12.1
+Lagos;-20.1
+Hong Kong;-4.6
+London;31.8
+Jakarta;8.8
+Boston;1.2
+Istanbul;25.2
+Singapore;43.0
+Mumbai;-18.3
+Stockholm;38.7
+Jakarta;4.7
+Edinburgh;4.4
+Sanaa;-29.1
+Portland;4.2
+Turin;5.3
+Manaus;4.6
+Glasgow;30.4
+La Paz;-27.2
+Recife;-9.7
+Shanghai;8.6
+Almaty;-7.5
+Stockholm;6.8
+Doha;24.3
+Karachi;-26.9
+Prague;40.1
+Lisbon;-19.9
+Manchester;7.2
+Cologne;26.4
+Quito;-6.9
+Miami;13.6
+Ulaanbaatar;14.3
+Warsaw;-17.2
+Cologne;-12.8
+Madrid;-13.7
+Atlanta;39.7
+Budapest;-3.2
+Kolkata;-29.7
+Guadalajara;10.0
+Ankara;29.0
+Atlanta;-19.8
+Birmingham;5.2
+Vientiane;38.6
+Moscow;-1.6
+Sanaa;-14.2
+Valencia;6.1
+Madrid;31.2
+Delhi;37.8
+Quito;21.0
+Recife;42.5
+Stuttgart;-12.3
+Munich;9.5
+Boston;34.7
+Riyadh;32.1
+Guadalajara;-13.8
+Toronto;-29.9
+Seoul;24.9
+Cairo;32.8
+Copenhagen;-25.5
+Phoenix;-20.5
+Barcelona;-11.3
+Vientiane;-16.7
+Athens;0.6
+Yangon;-5.8
+Riyadh;-0.8
+Cologne;34.6
+Caracas;37.3
+Beijing;13.7
+Kuwait City;7.2
+Amsterdam;15.9
+Zurich;19.3
+Stockholm;18.8
+Belém;12.6
+Barcelona;-13.7
+Buenos Aires;15.6
+Seville;-14.2
+Muscat;39.9
+Caracas;-8.1
+Muscat;17.0
+Karachi;13.7
+Tehran;-12.5
+Bangkok;-28.8
+Damascus;-21.7
+Lagos;-14.7
+Madrid;0.4
+Cairo;-28.1
+Denver;24.4
+Yangon;-14.8
+Denver;41.9
+Mexico City;14.3
+Porto;26.8
+Miami;-12.6
+Sanaa;26.6
+Salvador;12.4
+São Paulo;-7.8
+Busan;44.7
+Ho Chi Minh City;4.1
+Stockholm;-2.3
+Liverpool;3.9
+Dallas;-17.6
+Atlanta;11.8
+Beijing;-25.8
+Baghdad;-9.6
+Brasília;-7.9
+Yangon;10.8
+Stuttgart;33.1
+Lagos;40.4
+Manila;3.5
+Oslo;2.6
+Manaus;3.4
+Stockholm;-2.7
+Dallas;-6.3
+Phnom Penh;-19.6
+Guadalajara;-21.3
+Denver;11.8
+San Francisco;24.1
+Paris;-10.7
+Recife;37.5
+Moscow;-23.9
+Ashgabat;-17.4
+Belo Horizonte;37.7
+Valencia;-20.9
+Dublin;-12.9
+Florence;20.2
+Singapore;38.4
+Riyadh;-28.2
+Brussels;3.6
+Brasília;42.1
+Seattle;-28.5
+Doha;-25.7
+Turin;-24.1
+Prague;34.1
+Bogotá;5.9
+Karachi;-29.6
+Chicago;43.3
+Rio de Janeiro;1.3
+Prague;18.0
+Sydney;-27.2
+Stuttgart;44.5
+Portland;11.4
+Damascus;19.2
+Hong Kong;-13.8
+Tehran;41.0
+Turin;-26.3
+Rio de Janeiro;23.0
+Seoul;34.5
+Caracas;11.5
+London;35.1
+Valencia;10.2
+Almaty;-10.3
+Riyadh;36.4
+Hanoi;2.6
+Bangkok;14.1
+Cape Town;17.3
+Monterrey;5.2
+Recife;35.7
+Jerusalem;43.5
+Lima;-10.7
+Goiânia;14.2
+Yangon;24.1
+Dhaka;-28.2
+Yangon;-18.4
+Seattle;3.0
+Bangalore;37.4
+Jakarta;0.1
+Las Vegas;14.2
+Recife;-6.1
+Belém;-21.5
+Belo Horizonte;-2.0
+Cologne;17.2
+Beirut;31.0
+Kuala Lumpur;-1.0
+Cape Town;-27.4
+Chicago;-0.4
+Santiago;15.2
+Belo Horizonte;-6.0
+Miami;22.3
+Boston;-13.8
+Istanbul;-20.5
+London;-5.2
+Amman;35.6
+Jakarta;31.4
+Brasília;-7.9
+Rio de Janeiro;36.7
+Copenhagen;-19.4
+Birmingham;30.1
+Warsaw;28.6
+Madrid;15.0
+Copenhagen;-21.8
+Karachi;35.0
+Damascus;19.8
+Mexico City;26.5
+Atlanta;39.1
+Doha;4.1
+Colombo;35.5
+Stockholm;15.0
+Istanbul;18.5
+Prague;20.1
+Tehran;12.9
+Budapest;12.3
+Tashkent;41.4
+Fortaleza;29.8
+Kuwait City;8.4
+Venice;-6.0
+Geneva;3.2
+Portland;42.8
+Tokyo;-0.5
+Amman;-24.0
+Seattle;15.5
+Austin;-11.2
+Amman;13.7
+Ankara;11.1
+Kuwait City;29.5
+Milan;-24.0
+Beirut;28.3
+Montreal;-5.3
+Houston;0.6
+Shanghai;38.7
+Quito;42.5
+Ulaanbaatar;22.3
+Phoenix;-8.1
+Montreal;43.9
+Lima;-8.0
+Edinburgh;5.7
+Valencia;41.7
+Baghdad;22.3
+Lima;12.2
+Porto;30.5
+Bangkok;4.5
+Istanbul;4.0
+Prague;22.8
+Busan;-23.5
+Bangkok;-18.4
+London;31.8
+Doha;-25.3
+Valencia;-2.8
+Fortaleza;-23.3
+Munich;-27.9
+Chennai;-11.8
+Boston;11.8
+Denver;15.8
+Beijing;34.5
+Paris;3.2
+Portland;15.2
+Florence;14.8
+San Francisco;-23.4
+Frankfurt;6.1
+Seattle;-19.2
+Warsaw;-8.9
+Hamburg;-15.6
+Liverpool;23.5
+Cologne;-17.4
+Cairo;24.2
+Amsterdam;22.4
+Rio de Janeiro;13.8
+Budapest;41.3
+Toronto;-10.8
+Cape Town;14.0
+Denver;1.0
+Lisbon;39.7
+Dublin;-18.9
+Denver;-4.5
+New York;-23.0
+Rio de Janeiro;18.1
+Chicago;38.4
+Seattle;43.6
+Jakarta;-18.0
+Miami;-7.1
+Yangon;28.1
+Milan;24.0
+Budapest;36.2
+Stockholm;-18.2
+Phoenix;0.8
+Dhaka;16.1
+Los Angeles;26.1
+Valencia;13.6
+Vientiane;5.2
+Cologne;36.1
+São Paulo;27.9
+Las Vegas;-24.4
+Baghdad;31.4
+Lagos;-13.8
+Milan;-7.6
+Frankfurt;-25.8
+Guadalajara;14.4
+Atlanta;-2.7
+Montreal;24.6
+Manchester;13.5
+Amman;17.9
+Birmingham;-10.6
+Ashgabat;22.5
+Stockholm;43.4
+Sanaa;-17.4
+Madrid;2.2
+Monterrey;26.6
+Dallas;24.6
+Lisbon;36.3
+Phoenix;-29.1
+Cologne;-26.8
+Dallas;9.6
+San Francisco;25.0
+Cairo;-5.7
+Moscow;26.0
+Istanbul;-18.8
+Venice;42.2
+Sydney;28.2
+Auckland;26.8
+Nairobi;0.2
+Mumbai;9.2
+Mumbai;-27.1
+Lima;17.1
+Colombo;-13.4
+Mumbai;39.0
+Miami;34.8
+Istanbul;-29.9
+Cologne;7.0
+Dushanbe;18.5
+Salvador;30.2
+Porto;-22.3
+Sanaa;3.0
+Shanghai;-26.6
+Quito;-12.4
+Karachi;11.3
+Toronto;-2.8
+Dhaka;-2.0
+Sydney;-24.2
+Damascus;-19.1
+Manaus;31.2
+Hamburg;41.4
+Paris;39.8
+Baghdad;30.3
+Kathmandu;43.5
+Bangkok;-26.8
+Denver;44.2
+Budapest;-0.1
+Dallas;-21.2
+Barcelona;7.6
+Bangalore;7.0
+Edinburgh;29.4
+Beijing;15.2
+Jerusalem;5.5
+Oslo;9.0
+Houston;-18.7
+Cairo;-23.1
+Beirut;-12.5
+Sydney;6.9
+Copenhagen;18.9
+Kuwait City;14.3
+Caracas;-25.5
+Singapore;17.2
+Prague;-20.8
+Beijing;-17.0
+Toronto;20.2
+Curitiba;-22.5
+Belém;-9.1
+Munich;7.7
+Porto;18.3
+Helsinki;-18.7
+Jerusalem;-13.4
+Hong Kong;-6.1
+Tokyo;36.8
+Dublin;39.8
+Edinburgh;44.7
+Lisbon;-4.9
+Kabul;6.7
+Seoul;37.6
+Los Angeles;18.8
+Almaty;-24.6
+Cologne;6.7
+Naples;17.8
+Ashgabat;-23.4
+Madrid;12.9
+Goiânia;-25.6
+Valencia;30.8
+Phnom Penh;-24.4
+Berlin;-9.9
+Belo Horizonte;19.2
+Copenhagen;-14.1
+Geneva;25.5
+Hamburg;-18.4
+Vancouver;-20.6
+Atlanta;23.9
+Hong Kong;15.8
+Miami;12.4
+Austin;2.8
+Ho Chi Minh City;8.8
+Prague;-13.3
+Brasília;18.7
+La Paz;-13.9
+Stuttgart;-4.6
+Hong Kong;22.3
+Houston;5.1
+Munich;34.1
+Lagos;4.7
+Phoenix;-6.4
+Florence;-7.0
+Montreal;18.4
+Shanghai;-24.0
+Vancouver;-10.6
+Frankfurt;29.2
+Moscow;-6.5
+Jakarta;15.9
+Warsaw;13.1
+Los Angeles;42.6
+Caracas;-26.9
+Tashkent;29.2
+Sanaa;18.4
+Turin;-19.5
+Dallas;-27.8
+Kuwait City;-21.2
+Bogotá;-2.4
+Portland;-1.6
+Tehran;-23.5
+Delhi;35.0
+Dushanbe;7.3
+Dubai;-0.3
+Dubai;-30.0
+Bogotá;34.8
+Naples;18.1
+Seville;32.5
+Manaus;27.1
+Doha;-8.9
+Hong Kong;9.8
+Milan;1.5
+Lisbon;34.7
+Recife;-27.1
+Barcelona;-6.6
+Goiânia;24.4
+Prague;-7.4
+Prague;24.5
+Kathmandu;34.6
+Bishkek;19.7
+Doha;14.7
+Porto Alegre;29.9
+Florence;-29.6
+Brussels;40.2
+Munich;29.5
+London;9.9
+Reykjavik;-27.2
+Dallas;5.1
+Rome;22.2
+Toronto;-8.3
+Warsaw;-13.3
+Valencia;2.4
+Mexico City;-12.3
+Almaty;14.5
+Rio de Janeiro;43.1
+Auckland;-10.9
+Beijing;12.3
+Prague;37.5
+Yangon;5.4
+Rio de Janeiro;29.6
+Seattle;44.6
+New York;-18.4
+Porto Alegre;33.7
+Phoenix;-1.4
+Seoul;44.0
+Amsterdam;2.8
+Houston;1.9
+Recife;5.7
+London;-10.0
+Ankara;38.6
+Bangkok;36.2
+Tehran;39.2
+Portland;-9.8
+Vienna;-24.8
+Los Angeles;-23.8
+Riyadh;17.4
+Caracas;-17.7
+Stockholm;-27.5
+Lisbon;-9.2
+Sydney;-14.9
+Vienna;42.8
+Recife;-7.7
+Rio de Janeiro;-21.6
+Busan;34.7
+Hong Kong;-15.0
+Ho Chi Minh City;7.1
+Almaty;0.4
+Vienna;24.3
+Atlanta;43.7
+Dubai;5.8
+Nairobi;-2.8
+Chennai;6.9
+Baghdad;22.0
+Guadalajara;11.3
+Goiânia;-2.7
+Ulaanbaatar;-21.4
+Valencia;-21.8
+Jerusalem;27.4
+Busan;28.1
+Naples;-23.8
+Frankfurt;43.1
+Karachi;40.6
+Doha;23.0
+Dubai;-7.4
+Phoenix;-13.1
+Recife;9.9
+Valencia;-3.6
+São Paulo;-12.9
+Ho Chi Minh City;7.1
+Warsaw;33.3
+Dubai;42.5
+Copenhagen;11.9
+London;-22.4
+Moscow;38.4
+Nairobi;23.0
+Phoenix;-11.9
+Brasília;20.1
+Helsinki;5.3
+Shanghai;24.5
+Paris;29.4
+Fortaleza;-11.7
+Glasgow;38.0
+Curitiba;-17.6
+Glasgow;-7.7
+Frankfurt;-8.9
+Brasília;4.0
+Austin;10.5
+Porto Alegre;25.7
+Yangon;-21.9
+Athens;1.1
+Brasília;-27.3
+Oslo;-17.2
+Vienna;-0.1
+Kolkata;-9.3
+Naples;22.7
+Edinburgh;-15.9
+Bangalore;31.0
+Fortaleza;33.6
+Boston;-12.8
+Kolkata;11.4
+Birmingham;3.8
+Seville;-16.5
+Amman;12.5
+Phnom Penh;-15.3
+Recife;36.2
+Buenos Aires;-6.7
+Brussels;35.2
+Zurich;13.6
+Stuttgart;-10.5
+Kabul;-29.8
+Mexico City;21.2
+Lisbon;34.6
+Berlin;22.7
+Riyadh;17.5
+New York;17.0
+Turin;43.3
+Stuttgart;-14.7
+Turin;14.9
+Moscow;-9.4
+Ulaanbaatar;-15.0
+Muscat;25.5
+Edinburgh;-2.7
+Hamburg;36.2
+Belém;-10.6
+Bogotá;44.6
+Porto Alegre;-15.9
+Kuala Lumpur;44.8
+São Paulo;6.0
+Ashgabat;37.6
+Copenhagen;-13.5
+Caracas;26.6
+Lagos;23.3
+Stockholm;26.7
+Manila;-7.0
+Boston;4.6
+Venice;14.2
+Vienna;-10.8
+Tokyo;24.1
+Goiânia;7.9
+Lagos;-9.7
+Dallas;-15.1
+Curitiba;23.1
+Bogotá;-8.2
+Melbourne;22.9
+Porto;40.7
+Vientiane;-11.9
+Austin;32.1
+San Francisco;2.4
+Mexico City;23.0
+Beirut;11.6
+Belo Horizonte;14.5
+Austin;31.8
+Kabul;37.9
+Jerusalem;41.9
+Tokyo;14.8
+Rio de Janeiro;-13.0
+Houston;23.2
+Hanoi;-15.7
+Florence;38.5
+Muscat;-6.9
+Rome;-19.1
+Vienna;44.4
+New York;3.4
+Muscat;31.4
+Paris;-2.8
+Phnom Penh;28.3
+La Paz;-24.7
+Portland;-28.2
+Budapest;22.0
+Kathmandu;-21.2
+Stuttgart;-3.5
+Kuwait City;-15.6
+Bangalore;-29.0
+Turin;-4.7
+Almaty;26.4
+Ankara;-28.5
+Salvador;-13.0
+New York;8.9
+Goiânia;7.9
+Almaty;4.2
+Almaty;-7.8
+Guadalajara;-20.8
+Cape Town;-9.8
+Warsaw;31.5
+Porto;6.6
+Jakarta;30.6
+Hanoi;17.7
+Kabul;-4.9
+La Paz;-25.0
+Madrid;23.1
+Prague;-1.7
+Toronto;36.6
+Bangalore;0.1
+Brussels;10.9
+Glasgow;19.6
+Lima;24.3
+Toronto;24.3
+Damascus;26.6
+Boston;12.0
+Jerusalem;-6.0
+Tashkent;23.1
+Istanbul;20.6
+Chennai;6.8
+Bishkek;-26.0
+Nairobi;16.3
+Austin;-13.7
+Riyadh;-25.8
+Naples;24.7
+Delhi;-28.0
+Phoenix;-5.3
+Milan;-11.1
+Munich;38.2
+Portland;-27.4
+Riyadh;39.2
+Beijing;20.6
+Bishkek;-11.8
+Liverpool;-2.5
+Birmingham;-15.2
+Riyadh;27.3
+Chennai;-28.7
+Ho Chi Minh City;-13.1
+Hong Kong;-17.4
+Warsaw;-2.1
+Porto Alegre;19.8
+Lima;16.4
+Belém;19.3
+Mumbai;26.5
+Prague;36.1
+Ankara;-19.2
+Shanghai;22.1
+Phnom Penh;28.0
+Dhaka;30.5
+Jakarta;28.8
+Las Vegas;-17.6
+Fortaleza;33.5
+Porto Alegre;16.5
+Riyadh;-15.4
+Geneva;33.6
+Karachi;22.6
+Delhi;-23.8
+Muscat;-7.7
+Liverpool;-22.9
+Doha;-6.1
+Tokyo;10.9
+Kuala Lumpur;29.6
+Austin;16.4
+Shanghai;-20.2
+Guadalajara;-8.1
+Sydney;12.5
+Glasgow;32.8
+Florence;40.9
+Goiânia;-24.1
+Dublin;32.1
+Toronto;44.2
+Goiânia;-25.1
+Hamburg;7.0
+Hanoi;27.7
+Muscat;35.8
+Helsinki;44.8
+San Francisco;-21.2
+Bishkek;18.8
+Santiago;-7.3
+Kuala Lumpur;37.8
+Glasgow;-11.5
+Valencia;-5.6
+Vienna;39.3
+Phoenix;33.1
+Athens;22.1
+Copenhagen;-29.8
+Singapore;-6.3
+Frankfurt;33.1
+Athens;32.0
+Dubai;3.5
+Buenos Aires;-5.4
+Frankfurt;-1.2
+Venice;-16.2
+Barcelona;8.9
+Sanaa;23.7
+Caracas;-10.1
+Seattle;38.2
+Austin;36.4
+Stuttgart;-14.7
+Denver;38.5
+Manila;-14.9
+Hong Kong;12.4
+Lagos;10.3
+London;6.6
+Porto Alegre;39.1
+Singapore;8.5
+Ulaanbaatar;25.1
+Damascus;-29.6
+São Paulo;-0.1
+Miami;-26.4
+Karachi;18.0
+Doha;38.9
+Mumbai;-27.9
+London;0.5
+Mexico City;-16.0
+Warsaw;31.7
+Jerusalem;-7.0
+Birmingham;3.8
+Tashkent;13.2
+Budapest;-11.3
+Vientiane;11.6
+Cologne;28.2
+Delhi;42.7
+Ulaanbaatar;29.9
+Santiago;29.3
+Dublin;35.5
+Valencia;-6.8
+Vienna;-14.5
+Frankfurt;20.2
+Colombo;39.3
+Seville;27.0
+Lisbon;28.1
+Beirut;11.0
+Denver;-11.3
+Guadalajara;6.5
+Beijing;31.2
+Vancouver;-16.4
+Pyongyang;-29.3
+Bangkok;-21.4
+Helsinki;-16.1
+Bangkok;13.5
+Ho Chi Minh City;8.7
+Geneva;38.1
+Muscat;29.6
+Lisbon;25.1
+Munich;-14.7
+Amsterdam;14.0
+Melbourne;-24.2
+Baghdad;23.5
+Belém;-23.2
+La Paz;44.2
+Frankfurt;-27.4
+Pyongyang;2.2
+Amman;-29.8
+Reykjavik;25.2
+Los Angeles;44.9
+Warsaw;-10.6
+Paris;-8.4
+Beirut;39.1
+Ho Chi Minh City;10.9
+São Paulo;27.2
+Valencia;-22.0
+Kathmandu;21.0
+Stockholm;10.2
+Amman;-12.8
+Milan;12.9
+Quito;41.0
+Busan;18.8
+Auckland;-10.0
+Kabul;-22.1
+Boston;-7.9
+Frankfurt;26.0
+Seoul;-18.2
+Colombo;-19.6
+Colombo;-24.9
+Baghdad;0.9
+Berlin;5.2
+Berlin;-19.6
+Seattle;-6.8
+Geneva;40.2
+Las Vegas;-3.3
+Paris;34.6
+Dushanbe;0.7
+Recife;41.2
+Quito;26.3
+Busan;-25.0
+Manila;15.7
+Venice;-6.1
+Frankfurt;-14.5
+Caracas;1.4
+Beirut;39.6
+Yangon;20.5
+Caracas;18.5
+Bishkek;-5.0
+Fortaleza;20.0
+Dublin;-29.6
+Kolkata;-21.3
+Quito;35.9
+Lima;-24.6
+Fortaleza;-12.7
+Houston;14.4
+Mumbai;8.5
+Lagos;-20.0
+Barcelona;-24.7
+Cairo;-22.3
+Brussels;19.0
+Salvador;-12.1
+Edinburgh;-12.1
+Busan;-20.0
+São Paulo;31.8
+Chennai;-6.4
+Paris;-26.3
+Kuwait City;22.2
+Auckland;21.5
+Sanaa;28.4
+Singapore;-0.2
+Frankfurt;-18.8
+Budapest;-29.0
+Brussels;7.1
+Las Vegas;19.8
+Tehran;-23.1
+Oslo;-7.1
+Guadalajara;-22.7
+Prague;-24.8
+Birmingham;-24.5
+Budapest;-10.8
+Atlanta;-10.3
+Phnom Penh;15.2
+Bangalore;34.8
+Dhaka;44.1
+Beirut;-7.1
+Amman;-12.3
+Frankfurt;22.9
+Zurich;15.4
+Mumbai;-10.1
+Birmingham;18.4
+Monterrey;5.2
+La Paz;43.5
+Dushanbe;15.9
+Kuwait City;-16.8
+Moscow;-26.3
+Moscow;-9.5
+Bangalore;33.4
+Cairo;-17.8
+Manila;29.1
+Las Vegas;10.4
+Porto;10.0
+Yangon;-21.0
+Ulaanbaatar;-2.0
+Baghdad;-22.4
+Portland;-7.3
+Copenhagen;22.6
+Copenhagen;32.6
+Vienna;-20.2
+Doha;26.9
+Los Angeles;42.2
+Istanbul;-20.2
+Dhaka;-15.1
+Curitiba;-5.5
+Shanghai;-22.0
+Quito;-11.6
+Vancouver;-2.5
+Florence;15.6
+Yangon;10.1
+Lima;37.2
+Singapore;21.5
+Beijing;18.4
+Toronto;-3.0
+London;44.9
+Bishkek;-21.0
+Belo Horizonte;7.1
+Naples;-8.2
+Los Angeles;-5.3
+Boston;32.1
+Manaus;40.4
+Helsinki;27.9
+Seoul;43.2
+Damascus;13.3
+Ankara;-3.8
+Munich;-20.2
+Phnom Penh;11.4
+Kathmandu;40.1
+Toronto;5.3
+Melbourne;-20.3
+Geneva;-17.0
+Atlanta;-4.1
+Houston;-7.7
+Bogotá;-6.6
+Los Angeles;24.5
+Cape Town;27.2
+Rome;38.6
+Naples;2.9
+New York;-26.5
+Singapore;-19.1
+Phnom Penh;-11.1
+La Paz;-26.3
+Athens;14.7
+Auckland;-16.9
+Yangon;37.2
+Vancouver;24.3
+Shanghai;26.5
+Paris;-11.8
+Guadalajara;38.2
+Bogotá;24.6
+Tashkent;17.7
+Zurich;15.3
+Tokyo;9.0
+Chicago;15.0
+Bogotá;-25.6
+Porto;8.3
+Valencia;-25.2
+Dhaka;-13.5
+Edinburgh;-20.6
+Jerusalem;21.4
+São Paulo;18.6
+Houston;34.5
+Brussels;22.3
+Brasília;-0.4
+Moscow;-28.6
+Fortaleza;43.7
+Hamburg;41.3
+Phoenix;4.5
+Hanoi;-29.6
+Vancouver;6.3
+Delhi;16.0
+Baghdad;38.1
+Chennai;17.1
+Santiago;-29.7
+Almaty;35.0
+Barcelona;-2.3
+Montreal;42.1
+Munich;17.2
+Salvador;33.4
+Frankfurt;-19.6
+Jakarta;26.0
+Naples;13.6
+Cape Town;-27.1
+Tashkent;-26.3
+Chennai;13.8
+Denver;-2.7
+Colombo;41.9
+Baghdad;38.2
+Riyadh;-10.9
+Almaty;-12.5
+Amsterdam;-23.4
+Singapore;-6.1
+Berlin;18.8
+Brasília;29.0
+Montreal;-18.0
+Ho Chi Minh City;34.5
+Bogotá;26.3
+London;-1.3
+Kuwait City;2.2
+Mumbai;-0.4
+Warsaw;0.6
+Istanbul;-21.9
+Phoenix;-20.9
+Bogotá;-5.4
+Santiago;-20.8
+Berlin;3.3
+Busan;-3.6
+Manaus;31.9
+Cape Town;44.1
+Liverpool;-29.2
+Ankara;-24.3
+Phoenix;-24.8
+Salvador;9.0
+Manila;17.8
+Porto;40.9
+Riyadh;26.1
+Kolkata;10.5
+Curitiba;-21.4
+Las Vegas;-28.6
+Damascus;20.2
+Beirut;1.4
+Madrid;-28.2
+Curitiba;-8.1
+Los Angeles;-16.0
+Chennai;-11.3
+Kuala Lumpur;-14.9
+Turin;19.1
+Monterrey;16.9
+São Paulo;44.0
+Guadalajara;-12.7
+Stockholm;-18.0
+Porto Alegre;-15.0
+Bangkok;4.2
+Dhaka;-20.9
+Las Vegas;-22.0
+Beirut;4.8
+Vientiane;5.1
+Kuwait City;19.6
+Rome;31.4
+Bishkek;3.5
+Jerusalem;-23.6
+Athens;42.9
+Rio de Janeiro;-13.4
+Auckland;13.5
+San Francisco;9.9
+Rio de Janeiro;4.4
+Los Angeles;-3.5
+Shanghai;-23.0
+Curitiba;25.8
+Frankfurt;14.5
+Shanghai;33.1
+Phoenix;10.5
+Amsterdam;-2.8
+Mumbai;23.6
+Edinburgh;-10.3
+Busan;6.2
+Jerusalem;-26.9
+Cape Town;-25.4
+Bangkok;24.4
+Moscow;-19.8
+Naples;-1.5
+Karachi;1.6
+Budapest;7.3
+Monterrey;8.6
+Moscow;9.2
+Beirut;26.3
+Munich;33.1
+Munich;8.0
+Reykjavik;-20.7
+Bangkok;7.1
+Seoul;-19.2
+Vienna;-9.4
+Denver;-14.6
+Lima;-6.0
+Hamburg;-4.8
+Amsterdam;24.0
+Tehran;20.7
+Istanbul;22.2
+Liverpool;21.4
+Portland;13.3
+Hong Kong;45.0
+Naples;18.9
+Beijing;-18.0
+Guadalajara;-27.9
+Dublin;-5.7
+São Paulo;-16.5
+Bangalore;18.1
+Colombo;15.5
+Naples;32.4
+Amsterdam;11.5
+Lagos;29.5
+London;-14.8
+Naples;33.2
+Phnom Penh;16.9
+Kuwait City;8.0
+Amsterdam;-13.6
+Vientiane;10.2
+Paris;40.8
+Monterrey;1.1
+Phoenix;-15.3
+Portland;-8.1
+Vancouver;28.0
+Baghdad;0.7
+Ashgabat;31.2
+Sanaa;39.7
+Barcelona;10.1
+Beirut;21.0
+Montreal;-23.2
+Chennai;31.5
+Fortaleza;0.0
+Glasgow;-3.5
+Buenos Aires;-23.8
+Brasília;-22.6
+Salvador;-22.8
+Auckland;43.4
+Toronto;38.3
+Naples;35.3
+Kabul;21.8
+Florence;-21.4
+Reykjavik;12.8
+Dubai;8.1
+Barcelona;-23.6
+Baghdad;38.7
+Zurich;-15.4
+New York;-12.0
+Munich;-9.3
+Dublin;21.6
+Warsaw;10.2
+Brussels;-27.5
+Hamburg;-22.4
+Hamburg;26.8
+Seville;33.4
+Ashgabat;22.4
+Melbourne;27.7
+Buenos Aires;30.1
+Seville;8.0
+Montreal;43.2
+Fortaleza;-14.0
+Porto Alegre;-20.3
+Buenos Aires;12.9
+Kabul;-23.3
+Frankfurt;-19.3
+Cape Town;7.3
+Cologne;-13.4
+Atlanta;21.5
+Monterrey;36.1
+Miami;-29.3
+Lima;26.4
+Monterrey;-25.3
+Cape Town;16.8
+Montreal;43.1
+Dushanbe;-23.9
+Monterrey;41.0
+Vancouver;10.8
+Vancouver;-21.0
+Budapest;-15.0
+Muscat;-26.0
+Porto;5.4
+Bogotá;-5.7
+Valencia;40.4
+Seoul;1.0
+Valencia;29.7
+Tashkent;-15.9
+Buenos Aires;-9.2
+Oslo;23.1
+Beijing;-12.0
+Quito;30.6
+Kuala Lumpur;38.7
+Fortaleza;-7.2
+Berlin;-29.9
+Singapore;27.6
+Manila;-5.4
+Madrid;40.6
+Zurich;30.2
+Seville;-7.7
+Melbourne;-16.2
+Dhaka;-8.0
+Porto Alegre;-8.5
+Manaus;3.4
+Rome;-3.5
+Manaus;-16.7
+Jakarta;-2.5
+Stuttgart;30.9
+Beijing;-7.9
+Dallas;-19.2
+Montreal;43.1
+Melbourne;35.9
+Kuala Lumpur;33.4
+New York;-21.7
+Goiânia;-23.9
+Berlin;36.2
+Fortaleza;41.8
+Jerusalem;35.0
+Seattle;9.5
+Moscow;-10.5
+Glasgow;-19.2
+Bangalore;21.6
+Baghdad;30.4
+Caracas;-24.3
+Porto Alegre;7.8
+San Francisco;39.2
+Curitiba;18.9
+Vienna;-4.6
+Toronto;-14.4
+Damascus;10.6
+Rome;24.1
+Bangkok;40.8
+Sanaa;-23.1
+Moscow;5.5
+Stuttgart;-14.7
+Caracas;-13.2
+Jerusalem;41.6
+Berlin;11.2
+Sydney;-24.2
+São Paulo;33.9
+Pyongyang;32.7
+Phoenix;-13.3
+Hamburg;15.5
+Manila;28.1
+Delhi;-17.8
+Goiânia;19.1
+Manaus;10.1
+Cologne;19.3
+Singapore;-6.3
+Athens;17.5
+Ankara;39.8
+Shanghai;-5.6
+Tokyo;16.9
+Nairobi;20.6
+Phoenix;41.3
+Phoenix;-17.0
+Busan;-24.8
+Ashgabat;38.5
+Salvador;29.0
+Caracas;-0.5
+Manaus;6.5
+Montreal;-23.7
+Mumbai;40.4
+Tehran;26.5
+Brussels;28.8
+London;-15.6
+Barcelona;-19.8
+Riyadh;10.5
+Auckland;-2.7
+Geneva;-1.6
+Berlin;38.9
+Brussels;-22.7
+Paris;22.0
+Riyadh;-15.8
+Chicago;-19.6
+Liverpool;-2.2
+Berlin;-27.2
+Montreal;37.9
+Almaty;28.1
+Dhaka;14.4
+Tashkent;11.4
+Reykjavik;-21.9
+Berlin;19.0
+Atlanta;-6.1
+Manaus;43.6
+Glasgow;17.2
+Jerusalem;11.8
+Atlanta;29.0
+Manila;24.7
+Venice;39.8
+São Paulo;31.2
+Riyadh;-16.0
+Phoenix;32.0
+Boston;13.6
+Geneva;0.4
+Yangon;3.7
+Salvador;44.7
+Montreal;10.4
+Istanbul;-1.1
+Atlanta;0.5
+Colombo;-5.6
+Manila;17.8
+Dubai;-27.4
+Dushanbe;35.1
+Muscat;-0.3
+Bangkok;-0.9
+Seoul;34.6
+Atlanta;24.2
+Athens;-29.3
+Oslo;-23.2
+Shanghai;32.2
+Belém;1.3
+Kathmandu;39.3
+Monterrey;5.1
+Hong Kong;15.0
+Amsterdam;37.4
+Muscat;-7.3
+Birmingham;41.7
+Ashgabat;2.3
+Seville;37.9
+Manaus;-10.2
+Recife;-25.2
+Los Angeles;36.8
+Curitiba;-13.5
+Budapest;44.5
+Brussels;39.4
+Oslo;42.1
+Mumbai;-9.4
+Dushanbe;-13.0
+Munich;-18.6
+Cairo;-8.7
+Edinburgh;34.0
+Kuwait City;-19.7
+Manaus;-24.3
+Tashkent;44.1
+Beijing;26.8
+São Paulo;21.2
+Caracas;10.0
+Lisbon;8.5
+Kolkata;18.8
+Recife;-10.3
+Vienna;31.4
+Vientiane;-3.1
+Melbourne;-29.7
+Madrid;33.9
+La Paz;-0.7
+Austin;-27.1
+Vientiane;11.6
+Cape Town;-3.1
+Recife;-29.0
+Munich;19.8
+Vienna;-14.4
+Belo Horizonte;16.6
+Vienna;14.5
+Almaty;-11.1
+Jakarta;-22.1
+Liverpool;8.4
+Copenhagen;41.6
+Hanoi;36.8
+Brasília;-28.8
+Phnom Penh;-11.6
+Dushanbe;-13.4
+Ashgabat;40.1
+Amsterdam;-21.6
+Cologne;2.4
+Brussels;-9.0
+Delhi;34.3
+Rio de Janeiro;14.5
+Amman;-28.8
+Karachi;-29.5
+Brussels;-10.7
+Portland;31.2
+Brasília;37.1
+Stuttgart;20.8
+Singapore;22.0
+Busan;-6.8
+Ashgabat;-6.5
+Brussels;-9.3
+Belém;-1.6
+Toronto;-3.8
+Kabul;43.3
+Lisbon;39.9
+Porto;-14.3
+Hong Kong;5.9
+Guadalajara;15.5
+Bangkok;31.6
+Hamburg;-15.6
+Dublin;34.6
+Belo Horizonte;24.2
+Beijing;-21.6
+Seattle;-16.3
+Monterrey;14.6
+Stockholm;8.9
+Jerusalem;4.8
+Pyongyang;36.0
+Sanaa;40.6
+Vientiane;26.8
+Venice;-8.3
+Curitiba;-24.5
+Vienna;7.1
+Munich;0.4
+Porto Alegre;-16.8
+Sydney;27.7
+Brussels;5.1
+Atlanta;11.3
+Helsinki;-14.5
+Paris;-15.8
+Bishkek;-25.1
+Hong Kong;-9.0
+Sydney;2.2
+Birmingham;34.8
+Riyadh;-29.1
+Recife;-13.4
+Quito;1.4
+Singapore;-11.7
+Chicago;-4.1
+Warsaw;-15.2
+Sanaa;-23.1
+Melbourne;-2.9
+Stuttgart;-9.1
+Caracas;-3.0
+Seoul;-20.7
+Colombo;18.1
+Tashkent;16.0
+Monterrey;36.3
+Hanoi;29.6
+Brussels;11.3
+Warsaw;24.9
+Brussels;-11.9
+Buenos Aires;38.7
+Rio de Janeiro;-11.0
+Nairobi;-15.7
+Almaty;34.8
+Sydney;40.1
+Manila;6.2
+Copenhagen;-6.6
+Goiânia;-20.9
+Munich;-3.7
+Athens;-16.2
+Seoul;4.3
+Liverpool;-9.2
+Chicago;6.0
+Florence;27.6
+Sydney;-1.7
+Helsinki;29.3
+Montreal;15.3
+Toronto;-21.2
+Pyongyang;17.4
+Phoenix;-5.7
+Copenhagen;25.4
+Muscat;-13.1
+Florence;-7.1
+Yangon;11.6
+Glasgow;-4.7
+Almaty;-10.7
+Vancouver;21.2
+Seattle;-14.0
+Pyongyang;30.0
+Sanaa;-27.4
+Florence;31.5
+Almaty;31.0
+Milan;-3.7
+Porto Alegre;-6.7
+Cape Town;21.8
+Sanaa;-15.8
+Dushanbe;21.3
+Vancouver;7.9
+Manila;-10.4
+Dubai;-28.4
+Seville;-19.2
+Ankara;-26.4
+Turin;28.2
+London;-8.6
+Mexico City;33.4
+Venice;-21.0
+Istanbul;-28.7
+Las Vegas;-26.7
+Istanbul;-7.2
+Hong Kong;-21.8
+Amsterdam;21.1
+Manila;-8.3
+Naples;-28.7
+Quito;35.9
+Lisbon;-25.2
+Manaus;34.2
+Moscow;-7.1
+Portland;7.9
+Fortaleza;20.7
+Bangalore;-27.9
+Sanaa;-17.9
+Sydney;19.8
+Tehran;-17.2
+Bishkek;-26.7
+Brasília;29.8
+Doha;2.3
+Singapore;24.6
+Denver;28.0
+Mexico City;-26.5
+São Paulo;-5.1
+Ulaanbaatar;30.5
+Shanghai;29.8
+Phoenix;3.1
+Valencia;4.6
+Dubai;2.1
+Geneva;9.3
+Colombo;24.8
+Ulaanbaatar;38.1
+Curitiba;-5.9
+Madrid;22.6
+Dubai;22.4
+Cape Town;-15.7
+Goiânia;-19.9
+Dushanbe;30.8
+Vientiane;5.2
+Belém;14.3
+Stockholm;14.4
+Prague;40.4
+Seville;18.0
+Bishkek;-14.4
+Dubai;6.7
+Kuwait City;44.1
+Busan;27.4
+Fortaleza;21.5
+Seoul;35.9
+Seattle;36.5
+Athens;6.3
+Tokyo;17.0
+Jerusalem;44.5
+Manchester;-10.0
+Oslo;34.3
+Rio de Janeiro;6.4
+Atlanta;23.6
+Atlanta;-27.5
+Tashkent;28.9
+Amsterdam;28.9
+Denver;3.6
+Hamburg;42.8
+Cairo;44.4
+Fortaleza;39.5
+Warsaw;-17.7
+Belém;26.2
+Pyongyang;-5.5
+Delhi;9.6
+Guadalajara;-19.7
+Muscat;-24.8
+Quito;-22.9
+Quito;30.8
+Venice;-28.3
+Seattle;13.6
+Dushanbe;39.7
+Kabul;44.2
+Recife;30.4
+Manaus;6.0
+San Francisco;-17.0
+Singapore;24.7
+Valencia;-26.7
+Frankfurt;16.3
+Muscat;34.2
+Quito;26.4
+Naples;43.0
+San Francisco;-28.2
+Doha;-15.9
+Goiânia;9.2
+São Paulo;11.9
+Sydney;-4.1
+Athens;30.0
+Amsterdam;21.4
+Mexico City;9.4
+Phoenix;-10.7
+Brussels;-23.8
+Warsaw;39.6
+Busan;1.0
+Oslo;26.5
+Hong Kong;11.8
+Beirut;25.0
+Ankara;26.6
+Madrid;-21.8
+Beijing;43.9
+Buenos Aires;-19.5
+Hanoi;40.3
+Santiago;19.0
+Turin;-22.9
+Toronto;34.7
+Miami;-9.3
+Belém;-2.7
+Monterrey;28.4
+Baghdad;36.3
+Chennai;6.4
+Houston;38.1
+Ulaanbaatar;28.7
+Buenos Aires;-0.8
+Kolkata;-11.0
+Moscow;24.0
+Liverpool;-21.5
+Reykjavik;25.6
+Goiânia;24.8
+San Francisco;0.7
+Brussels;24.0
+Vienna;7.4
+Mumbai;36.0
+Cologne;30.1
+Amsterdam;-2.4
+Warsaw;28.3
+Rio de Janeiro;22.6
+Phoenix;-7.7
+Geneva;19.6
+Tehran;-29.8
+Atlanta;-11.8
+Sydney;-22.2
+Stuttgart;-19.0
+Hong Kong;-9.3
+Seville;14.6
+Cape Town;27.4
+Bangalore;-18.3
+Edinburgh;-19.6
+Melbourne;43.3
+Amman;-19.1
+Manaus;24.8
+Hamburg;17.2
+Rio de Janeiro;33.6
+Houston;-3.1
+Kabul;28.9
+Birmingham;1.8
+Auckland;-10.7
+Los Angeles;3.2
+Bangkok;-16.0
+Melbourne;-11.4
+Geneva;9.8
+Ashgabat;41.8
+Bangkok;8.7
+Frankfurt;28.0
+Chicago;-8.4
+São Paulo;16.9
+Riyadh;20.2
+Manila;36.2
+Los Angeles;-8.3
+Tashkent;-27.6
+Kuala Lumpur;7.2
+Phoenix;44.4
+Athens;12.5
+Athens;7.5
+San Francisco;10.9
+Los Angeles;-14.9
+Vientiane;-1.9
+Oslo;35.4
+Singapore;-29.0
+Beirut;5.4
+Dublin;-0.1
+Sydney;-17.2
+Kuala Lumpur;24.9
+Sydney;16.4
+Phoenix;24.2
+Ashgabat;39.3
+Bangkok;16.6
+Liverpool;-8.3
+Amsterdam;33.1
+Beirut;21.7
+Fortaleza;40.4
+Cairo;11.2
+Jakarta;32.6
+Phoenix;4.8
+Sanaa;-29.3
+Amman;29.1
+Berlin;26.7
+Seville;10.0
+Seville;33.9
+Buenos Aires;16.4
+Amsterdam;39.2
+Dubai;-25.2
+Dublin;32.1
+New York;-27.6
+Copenhagen;36.2
+Moscow;-18.5
+Porto Alegre;-12.4
+Birmingham;36.3
+Goiânia;9.2
+Hong Kong;15.5
+Lima;7.3
+Brasília;31.7
+Bangkok;11.2
+Tokyo;44.4
+Valencia;19.8
+Monterrey;-13.2
+Lisbon;-6.0
+Buenos Aires;-4.6
+Turin;-5.6
+Boston;4.3
+Karachi;22.5
+Athens;32.7
+Amsterdam;-14.7
+Valencia;27.3
+Manaus;39.9
+Vancouver;3.5
+Belém;37.2
+Oslo;32.5
+Manaus;2.4
+Porto;1.5
+Recife;36.5
+Amsterdam;10.9
+Brasília;44.6
+Kolkata;42.8
+Cologne;42.1
+Phnom Penh;37.2
+Paris;-11.4
+Kuwait City;-4.7
+Amsterdam;0.9
+Dallas;41.7
+Goiânia;33.1
+Oslo;-8.7
+Vienna;43.8
+Vienna;4.5
+Munich;9.9
+Baghdad;-22.8
+Muscat;33.9
+Warsaw;3.2
+Dublin;40.6
+Auckland;-29.4
+Liverpool;42.8
+Bangkok;25.3
+Warsaw;41.0
+Lima;27.9
+Venice;5.8
+London;-27.0
+Stuttgart;6.1
+Beijing;-4.9
+Busan;44.1
+Goiânia;15.7
+Athens;36.0
+Jakarta;15.4
+Stuttgart;-2.5
+Dubai;-23.9
+Warsaw;15.2
+Amman;-6.3
+Turin;-17.3
+Florence;13.6
+Istanbul;40.8
+Vientiane;42.1
+Ho Chi Minh City;12.4
+Miami;13.0
+Ankara;-21.7
+London;-6.0
+Athens;-9.8
+Denver;7.4
+Naples;-23.4
+Colombo;38.0
+Jerusalem;21.6
+Madrid;-24.3
+Hong Kong;-27.9
+Chicago;27.4
+Edinburgh;42.7
+Busan;16.9
+Dhaka;-24.7
+Glasgow;20.1
+Amsterdam;27.4
+Dubai;37.1
+Belém;23.8
+Lisbon;20.4
+Jerusalem;14.1
+Portland;13.4
+Istanbul;-1.1
+Belo Horizonte;-12.2
+Auckland;18.3
+Jakarta;22.5
+Rome;-8.2
+Dubai;2.4
+Beirut;34.3
+Curitiba;-22.8
+Belo Horizonte;22.9
+Paris;-10.5
+Guadalajara;-11.7
+Birmingham;18.1
+Lima;-15.5
+Bangalore;-4.5
+Tashkent;39.1
+Mumbai;-11.1
+Brussels;-29.9
+Brussels;41.2
+Edinburgh;-1.4
+Cape Town;26.9
+Monterrey;40.8
+Amsterdam;34.9
+Warsaw;-5.1
+Jerusalem;-19.2
+Muscat;42.6
+Fortaleza;26.9
+Liverpool;-28.2
+Geneva;16.0
+Pyongyang;-25.2
+Chicago;-8.2
+Fortaleza;12.3
+Rio de Janeiro;-24.0
+Porto;35.6
+Almaty;-25.8
+Oslo;18.4
+Toronto;19.8
+Portland;32.5
+Tokyo;-26.4
+Beirut;30.9
+Las Vegas;-17.5
+Muscat;22.1
+Baghdad;5.9
+Seattle;19.0
+Munich;-21.0
+Pyongyang;-13.4
+Dublin;-27.5
+Las Vegas;24.0
+Rome;5.0
+Seattle;-0.8
+Boston;25.9
+Florence;-29.2
+Milan;38.7
+Nairobi;-19.9
+Budapest;16.7
+San Francisco;9.8
+Cape Town;28.0
+Goiânia;31.1
+Ho Chi Minh City;-26.7
+Berlin;-25.0
+Denver;1.8
+Kolkata;3.6
+Seville;-3.1
+Cologne;-15.9
+Almaty;31.6
+Reykjavik;-9.8
+Manchester;-29.6
+Muscat;35.4
+Reykjavik;-12.9
+Barcelona;-26.2
+Santiago;-4.2
+Bangalore;0.3
+Rome;36.0
+Stockholm;-29.7
+Pyongyang;-14.6
+New York;-1.2
+Muscat;0.6
+Damascus;5.5
+Birmingham;23.4
+Valencia;-22.1
+Baghdad;44.3
+Monterrey;-29.2
+Mexico City;-12.4
+Lima;-24.6
+Buenos Aires;19.7
+Sydney;-24.1
+Jakarta;18.6
+Helsinki;-18.4
+Las Vegas;-13.9
+Jerusalem;-9.3
+Kabul;-18.4
+Lagos;12.9
+Karachi;23.9
+Hamburg;-9.4
+Rio de Janeiro;39.8
+Hamburg;-22.2
+Rio de Janeiro;9.0
+Dublin;-22.3
+Geneva;4.3
+Tashkent;11.3
+Baghdad;19.2
+Prague;-5.7
+Barcelona;-15.7
+Athens;25.6
+Sydney;1.7
+Boston;44.3
+Miami;-25.6
+Manila;-14.2
+Helsinki;29.2
+Amman;2.2
+Vancouver;25.8
+Nairobi;-4.1
+Sanaa;16.3
+Las Vegas;28.7
+Ulaanbaatar;9.3
+Kuwait City;39.2
+Edinburgh;4.7
+Stockholm;16.5
+Cairo;29.2
+Caracas;22.7
+Kolkata;32.7
+Bangalore;43.2
+Amman;-17.7
+Boston;17.1
+Curitiba;-24.9
+Yangon;31.6
+Belo Horizonte;-5.5
+Tehran;3.5
+Quito;33.5
+Muscat;9.0
+Melbourne;-16.1
+Seattle;5.2
+La Paz;44.8
+Zurich;-2.6
+Beijing;32.5
+Jerusalem;27.7
+Porto;-11.7
+Jakarta;19.6
+La Paz;40.3
+Melbourne;-22.9
+Seoul;4.8
+Muscat;13.9
+Manaus;14.9
+Cologne;8.4
+Florence;19.8
+Florence;36.2
+Ulaanbaatar;29.2
+Riyadh;-18.2
+Prague;-15.8
+Lima;-14.6
+Muscat;2.5
+Tokyo;42.4
+Los Angeles;-18.7
+Busan;0.4
+Muscat;27.0
+Munich;2.4
+Ankara;-16.0
+Jakarta;2.3
+Geneva;-1.6
+Jerusalem;-22.3
+New York;24.6
+Porto;-27.6
+Seattle;39.4
+Florence;1.3
+Seville;31.7
+Birmingham;-23.0
+Belém;44.7
+Geneva;-22.1
+Milan;-1.8
+Sanaa;35.6
+Brasília;8.9
+Colombo;26.9
+Beirut;23.5
+Vientiane;34.2
+Vienna;8.7
+Ho Chi Minh City;26.5
+Hanoi;-12.5
+Bogotá;-12.3
+Chicago;5.3
+Cologne;-29.0
+Santiago;30.7
+Ashgabat;-10.2
+Phoenix;8.6
+Tashkent;10.9
+Glasgow;16.9
+Dublin;1.9
+Hong Kong;43.0
+Ankara;0.8
+Quito;39.5
+Budapest;-2.6
+Cairo;25.9
+Lisbon;35.9
+Bogotá;35.3
+Vienna;15.1
+Guadalajara;25.3
+Tashkent;14.4
+Las Vegas;-4.6
+Nairobi;-20.1
+Sanaa;-10.5
+Kuwait City;-13.9
+Buenos Aires;44.1
+Los Angeles;-13.5
+Boston;-10.9
+Shanghai;39.7
+Recife;2.6
+Jerusalem;12.3
+Buenos Aires;22.1
+Colombo;-12.2
+Warsaw;-6.0
+Toronto;25.9
+Beirut;-16.5
+Auckland;37.7
+San Francisco;39.3
+Cairo;16.2
+Naples;4.6
+Recife;12.7
+Denver;-14.6
+Curitiba;-16.3
+Caracas;-3.6
+Cairo;-8.2
+Beirut;-25.1
+Monterrey;19.3
+Las Vegas;-1.1
+Oslo;-10.9
+Kuwait City;-11.4
+Recife;8.1
+Miami;37.6
+Beijing;22.2
+Karachi;41.4
+Berlin;-22.8
+Istanbul;29.1
+Phoenix;-27.8
+Cologne;14.5
+Muscat;34.0
+Milan;-0.4
+Dushanbe;7.5
+Manaus;-18.8
+Prague;15.4
+Ankara;44.4
+Los Angeles;29.8
+Stuttgart;-19.0
+Valencia;31.6
+Hong Kong;-6.5
+Tokyo;43.5
+Doha;-11.0
+Prague;1.0
+Caracas;18.4
+Prague;1.3
+Denver;-28.6
+Dushanbe;-16.3
+Dushanbe;27.9
+Mumbai;-24.7
+Salvador;-1.9
+Rome;9.2
+Budapest;-18.4
+Rome;17.1
+Mexico City;30.5
+Rio de Janeiro;-29.9
+Belém;32.9
+Los Angeles;20.2
+Seattle;3.1
+Jakarta;-29.9
+Tehran;-12.0
+Quito;2.9
+Vancouver;-16.5
+Berlin;22.1
+Lisbon;34.8
+Riyadh;-24.2
+Pyongyang;40.5
+Hong Kong;-6.9
+Guadalajara;-23.3
+Busan;-16.4
+Santiago;-13.0
+Kuwait City;-16.0
+Copenhagen;-29.2
+Budapest;-29.6
+Manila;33.7
+Lisbon;-27.5
+La Paz;-11.1
+Lagos;44.6
+Bishkek;17.0
+Shanghai;27.3
+Seoul;12.0
+Mexico City;-8.6
+Los Angeles;31.7
+Monterrey;5.0
+La Paz;-18.4
+Lima;-4.6
+Hong Kong;5.8
+Vancouver;35.9
+Los Angeles;20.7
+Glasgow;27.5
+São Paulo;29.2
+Bogotá;27.9
+Glasgow;-15.7
+Portland;-17.5
+Prague;14.6
+Kathmandu;-20.9
+Denver;12.7
+Kolkata;1.1
+Brasília;-21.1
+Porto Alegre;35.3
+Bishkek;-19.5
+Kuala Lumpur;-1.0
+Lima;-25.8
+Budapest;-26.5
+Kuala Lumpur;-7.5
+Karachi;-6.6
+Geneva;24.8
+Goiânia;34.1
+Moscow;44.4
+Hamburg;16.8
+Helsinki;-21.8
+Sanaa;19.3
+Barcelona;-15.1
+Seville;26.0
+Mexico City;36.2
+Nairobi;14.5
+Tokyo;2.7
+Karachi;28.9
+Lisbon;11.1
+Valencia;24.1
+Yangon;5.0
+Manchester;-25.0
+Zurich;-5.5
+Warsaw;25.2
+Kathmandu;7.4
+Tokyo;5.0
+Montreal;-29.2
+Manchester;17.0
+Naples;33.1
+Pyongyang;30.7
+Venice;-21.9
+Dubai;15.8
+Auckland;-1.7
+Karachi;-25.4
+Seville;32.4
+Jakarta;9.6
+Almaty;-23.6
+Denver;36.5
+Boston;26.8
+Houston;-23.9
+Phnom Penh;12.1
+Frankfurt;-6.6
+Kuala Lumpur;-10.8
+Mumbai;-22.2
+Milan;26.3
+Belém;-8.4
+Tokyo;-6.9
+Zurich;44.5
+Las Vegas;13.1
+Denver;-25.5
+Montreal;37.2
+Geneva;37.7
+Chicago;-18.0
+São Paulo;-12.8
+Manaus;-18.0
+Singapore;-12.2
+Beijing;-16.1
+Istanbul;-28.4
+Baghdad;-7.4
+Houston;-7.4
+Lisbon;-5.6
+Budapest;16.6
+Quito;0.4
+Florence;11.6
+Dubai;33.4
+Jakarta;0.3
+Cologne;-3.5
+Beirut;-2.9
+Lima;18.9
+Lima;-25.2
+Amsterdam;-11.5
+Venice;38.5
+Vancouver;12.6
+Valencia;9.1
+Curitiba;-8.4
+Nairobi;-21.8
+Dallas;10.5
+Portland;24.5
+Almaty;7.2
+Buenos Aires;0.3
+Kolkata;37.0
+Frankfurt;29.8
+Bangkok;9.4
+Cairo;-5.7
+Hamburg;-29.1
+Lagos;20.1
+Vienna;-22.7
+Dushanbe;-17.5
+Salvador;41.5
+Kuala Lumpur;30.3
+Bangalore;5.0
+Yangon;20.5
+Amman;-13.3
+Seoul;9.2
+New York;18.3
+Copenhagen;20.4
+Ashgabat;1.1
+Buenos Aires;30.8
+Tashkent;-10.6
+Belo Horizonte;-3.7
+Vientiane;31.4
+Cape Town;12.5
+Barcelona;1.8
+Montreal;-2.3
+Auckland;23.5
+Beijing;-6.2
+San Francisco;0.5
+Prague;28.4
+Barcelona;-29.2
+Buenos Aires;18.4
+Ashgabat;-24.0
+Ulaanbaatar;41.6
+Muscat;14.8
+Kolkata;26.9
+Stuttgart;-3.7
+Cologne;40.5
+Shanghai;12.6
+Phoenix;-28.7
+Quito;-15.5
+Singapore;21.6
+Hanoi;8.3
+Athens;9.9
+Mumbai;21.0
+Munich;37.0
+Boston;27.8
+Edinburgh;-17.2
+Austin;10.2
+Colombo;-27.4
+Mexico City;-24.6
+Amsterdam;-24.9
+Fortaleza;-29.5
+Prague;40.6
+Beijing;41.8
+Dublin;-1.1
+Porto;27.1
+Pyongyang;-0.0
+Madrid;14.4
+Rio de Janeiro;11.6
+San Francisco;-28.2
+Manila;8.3
+Ashgabat;-11.9
+Karachi;7.0
+Quito;-29.8
+Los Angeles;-29.9
+Kolkata;13.2
+Copenhagen;-25.8
+Budapest;10.2
+Houston;19.9
+Seattle;32.5
+Doha;22.6
+Yangon;26.3
+Zurich;16.3
+Istanbul;34.1
+Seattle;13.7
+Caracas;-9.4
+Dallas;-14.7
+Kabul;44.9
+Dallas;6.8
+Ankara;27.9
+Lima;26.3
+Manaus;-15.3
+Bishkek;7.4
+Ulaanbaatar;-9.7
+Monterrey;-10.9
+Almaty;-26.9
+Kolkata;-20.3
+Amsterdam;-15.5
+Prague;-9.2
+Barcelona;7.7
+Kuwait City;-14.8
+Amman;-2.2
+Mumbai;-11.3
+Salvador;-25.8
+Paris;-14.4
+Prague;17.9
+Phnom Penh;-26.6
+Baghdad;-18.3
+Jakarta;28.3
+Brussels;23.5
+Colombo;42.5
+Naples;-20.7
+Chicago;3.1
+Istanbul;-19.8
+Salvador;32.1
+Kathmandu;37.5
+Bangalore;-11.8
+Seoul;2.6
+Vancouver;18.7
+Goiânia;-6.3
+Ankara;-24.0
+Vienna;-7.3
+Tashkent;27.2
+Salvador;0.3
+Naples;15.5
+Manaus;19.8
+Dushanbe;43.1
+Paris;34.7
+Birmingham;33.9
+Colombo;-13.7
+Pyongyang;7.3
+Porto Alegre;25.7
+Jakarta;-14.9
+Budapest;35.3
+Florence;-25.2
+Kathmandu;24.3
+Paris;39.7
+Salvador;33.8
+Porto Alegre;-24.8
+Chicago;-17.8
+Manaus;0.0
+Las Vegas;34.2
+Melbourne;-29.7
+Vienna;20.3
+Madrid;15.7
+Manchester;-18.7
+Bogotá;-2.1
+Boston;33.0
+Munich;34.2
+Munich;-2.2
+Brussels;29.4
+Beijing;-2.9
+Glasgow;21.6
+Athens;10.0
+Edinburgh;34.6
+Rome;-2.1
+Seville;-21.8
+Madrid;42.3
+Karachi;-29.9
+Sydney;30.1
+Lagos;19.9
+Cologne;14.6
+Zurich;-28.3
+Manaus;17.2
+Sanaa;25.4
+Valencia;-9.9
+Fortaleza;9.7
+Valencia;17.2
+Moscow;-28.6
+Curitiba;3.4
+Los Angeles;4.7
+Oslo;-20.6
+Florence;31.9
+Toronto;2.3
+Moscow;26.3
+Zurich;27.7
+Bangkok;21.1
+Auckland;4.8
+Seville;29.7
+Amman;29.6
+Helsinki;-9.2
+Edinburgh;-29.7
+Las Vegas;-25.4
+Dushanbe;7.1
+Busan;-16.1
+Venice;21.3
+Brasília;-11.8
+Munich;-13.7
+Edinburgh;34.4
+Oslo;-17.5
+Manila;-29.5
+Melbourne;5.1
+Brussels;21.9
+Portland;-19.9
+Birmingham;41.5
+Atlanta;40.0
+Kathmandu;-25.5
+Damascus;27.5
+Bangalore;-18.3
+Vienna;-12.9
+Miami;-15.1
+Buenos Aires;9.5
+Naples;-29.0
+Frankfurt;18.5
+Melbourne;-19.0
+Birmingham;27.3
+Dubai;15.1
+Bogotá;-23.7
+La Paz;7.7
+Boston;11.7
+Belém;10.3
+Istanbul;4.4
+Sydney;25.7
+Belém;-6.2
+Rio de Janeiro;41.2
+Manaus;12.0
+Pyongyang;13.1
+Oslo;14.0
+Manchester;3.5
+Porto Alegre;-29.3
+Austin;6.6
+Hamburg;26.1
+Beirut;0.8
+Prague;27.9
+Karachi;43.7
+San Francisco;37.4
+Dublin;38.1
+Riyadh;-1.8
+Delhi;-24.6
+Montreal;-16.8
+Valencia;-6.4
+Goiânia;38.0
+Houston;27.3
+Tokyo;17.7
+Milan;30.6
+Ashgabat;36.2
+Cape Town;-19.4
+Hamburg;-21.0
+Chicago;14.7
+Guadalajara;8.5
+Reykjavik;-28.2
+Istanbul;9.4
+Houston;-18.3
+Boston;41.2
+Montreal;5.7
+Vienna;-3.2
+Naples;14.0
+Austin;-15.3
+Hong Kong;42.7
+Karachi;-6.8
+Kathmandu;25.6
+Porto;-6.9
+Boston;-9.2
+Delhi;9.4
+Goiânia;5.2
+Dubai;-19.9
+Denver;32.0
+Mumbai;42.9
+Manaus;-27.9
+Lagos;16.3
+Dhaka;-9.2
+Delhi;5.1
+Shanghai;3.4
+Dhaka;17.8
+Quito;45.0
+Dublin;-9.6
+Zurich;21.7
+Dublin;-6.4
+Dhaka;21.7
+Madrid;12.0
+Chicago;29.2
+Recife;42.5
+Busan;31.8
+Kathmandu;-27.6
+Atlanta;41.3
+Houston;-13.4
+Singapore;0.5
+New York;-1.1
+Colombo;31.1
+Buenos Aires;7.4
+Lisbon;36.5
+Helsinki;24.0
+Recife;35.0
+Colombo;-2.4
+Istanbul;-19.3
+Delhi;10.8
+Kathmandu;37.6
+Buenos Aires;10.1
+Kathmandu;32.1
+Glasgow;-3.8
+Toronto;11.4
+Cologne;22.7
+Cape Town;42.1
+Lagos;44.1
+Las Vegas;4.4
+Ashgabat;11.7
+Rome;-24.6
+Madrid;-13.3
+Birmingham;-17.2
+Las Vegas;-17.9
+Delhi;27.0
+Ulaanbaatar;-15.7
+Boston;-5.3
+Brasília;5.5
+Tehran;22.2
+Porto;-4.5
+Buenos Aires;33.3
+Dubai;-0.9
+Manaus;-9.8
+Boston;39.3
+Bishkek;-12.9
+Tashkent;-7.5
+Seville;23.0
+Kathmandu;-3.5
+Lima;39.9
+Cape Town;-0.3
+Athens;18.9
+Manchester;33.5
+Porto;31.6
+Reykjavik;26.8
+Goiânia;28.2
+Baghdad;11.6
+Guadalajara;19.2
+Toronto;2.5
+Salvador;34.9
+Nairobi;2.2
+Beijing;23.0
+Buenos Aires;-3.9
+Bogotá;-8.2
+Naples;-5.2
+Phnom Penh;15.3
+Yangon;-9.9
+Santiago;0.1
+Buenos Aires;29.9
+Bangkok;-20.2
+Denver;40.6
+Fortaleza;-17.3
+Milan;-12.1
+Santiago;10.1
+Portland;25.6
+Madrid;-1.5
+Turin;42.6
+Stockholm;32.2
+Liverpool;4.0
+Busan;44.3
+Montreal;38.7
+Riyadh;34.3
+San Francisco;29.8
+Porto;8.0
+Doha;22.6
+Muscat;4.7
+Salvador;2.4
+Santiago;37.6
+Porto;-21.6
+São Paulo;32.6
+Chennai;35.6
+Ulaanbaatar;-15.9
+Montreal;-10.6
+Tokyo;4.6
+Denver;0.9
+Paris;-2.5
+Houston;11.0
+Montreal;0.7
+Hanoi;-1.7
+Barcelona;12.3
+Toronto;42.1
+Manchester;-29.7
+Houston;25.1
+Karachi;4.9
+Boston;-12.3
+Glasgow;15.1
+Jerusalem;-0.8
+Lima;-24.6
+Dushanbe;28.2
+Dubai;23.8
+Madrid;28.2
+Baghdad;24.6
+Delhi;40.8
+Atlanta;34.3
+London;40.1
+Stockholm;39.8
+Zurich;36.7
+Jakarta;26.2
+London;-20.2
+Jakarta;-23.0
+Beijing;24.0
+Guadalajara;19.9
+Stockholm;19.3
+Dhaka;25.8
+Dushanbe;30.9
+London;-12.4
+Houston;-11.6
+Lisbon;20.6
+Dhaka;37.8
+Hong Kong;27.1
+Berlin;43.1
+Shanghai;27.8
+Karachi;42.3
+Ulaanbaatar;13.2
+Phnom Penh;-18.8
+Santiago;31.5
+Barcelona;37.4
+Salvador;22.3
+Glasgow;-8.0
+Prague;8.6
+Vancouver;-2.0
+Stuttgart;-8.8
+Guadalajara;-4.0
+Los Angeles;-2.1
+Bishkek;-21.6
+Las Vegas;31.4
+Lisbon;-4.8
+Liverpool;44.5
+Vienna;-29.0
+Vienna;-26.5
+Amman;-25.6
+Belo Horizonte;8.1
+Milan;27.5
+Manila;42.9
+La Paz;-14.0
+Dushanbe;-18.1
+São Paulo;19.6
+Bogotá;-7.2
+Ashgabat;-17.5
+Karachi;-25.0
+Dallas;-12.0
+Istanbul;-15.7
+Boston;-8.5
+Hong Kong;30.0
+Geneva;32.7
+Rome;43.3
+Austin;-11.7
+Doha;-22.9
+Curitiba;23.4
+Delhi;41.4
+Monterrey;6.4
+Busan;1.2
+Vancouver;36.5
+Manchester;36.9
+Singapore;26.6
+Liverpool;11.8
+Belém;8.5
+Munich;-12.8
+Damascus;-25.3
+Brussels;19.1
+Dhaka;11.5
+Mumbai;-15.9
+Bangalore;-3.8
+Las Vegas;-8.2
+Toronto;-10.2
+Caracas;15.2
+Chennai;19.6
+San Francisco;-10.0
+Dushanbe;43.6
+Jerusalem;9.6
+Beijing;-20.2
+Madrid;7.6
+Busan;-0.8
+Lisbon;-8.6
+Edinburgh;29.4
+Mumbai;-14.3
+Delhi;9.6
+Delhi;38.9
+Stuttgart;-22.3
+Frankfurt;10.3
+Colombo;7.9
+Reykjavik;35.7
+Jakarta;28.6
+Athens;23.9
+São Paulo;-13.8
+Ashgabat;41.4
+Riyadh;-12.4
+San Francisco;1.2
+Athens;44.9
+Amman;-5.4
+Warsaw;43.9
+Kathmandu;-15.3
+Stuttgart;-6.3
+Baghdad;16.5
+Monterrey;3.1
+Copenhagen;-27.2
+Cologne;14.5
+Santiago;-8.6
+Vancouver;-3.6
+Bogotá;2.8
+Dhaka;8.2
+Warsaw;7.2
+Monterrey;40.8
+La Paz;8.7
+Mexico City;-18.8
+San Francisco;11.1
+Istanbul;10.4
+Manila;42.4
+Copenhagen;-15.0
+Miami;10.0
+Prague;-9.6
+Toronto;15.8
+Athens;10.3
+Kuala Lumpur;8.7
+Madrid;31.0
+Valencia;35.3
+Recife;-13.7
+Kuala Lumpur;37.9
+Hong Kong;-22.6
+Lima;-16.8
+Denver;4.4
+Lagos;11.6
+Munich;4.5
+Santiago;-3.7
+Nairobi;37.7
+Miami;32.5
+Shanghai;-24.6
+Kolkata;17.4
+Lima;11.2
+Frankfurt;37.8
+Melbourne;43.0
+Shanghai;3.2
+Berlin;36.0
+Dubai;-6.0
+Delhi;37.6
+Vientiane;-24.1
+Bangkok;-14.3
+Lima;11.3
+Cape Town;21.1
+Athens;-15.4
+Damascus;32.6
+Nairobi;16.8
+Kabul;-4.7
+Manila;-10.7
+Zurich;-20.7
+Auckland;-4.5
+Miami;10.7
+Phnom Penh;-21.3
+Lagos;38.9
+Muscat;5.1
+Monterrey;4.9
+Busan;-14.3
+Boston;19.5
+Cape Town;-21.7
+Lima;36.0
+Buenos Aires;31.4
+Prague;-2.3
+Muscat;29.0
+Porto;27.5
+Almaty;-24.4
+Vientiane;5.0
+Dushanbe;35.7
+Manaus;-23.0
+Zurich;24.6
+Jerusalem;19.7
+Geneva;15.6
+Beijing;4.4
+Kabul;3.5
+Ulaanbaatar;-2.0
+Boston;25.3
+Chicago;21.8
+Quito;41.5
+Sanaa;-22.1
+Atlanta;20.3
+Florence;-27.6
+London;-11.7
+Atlanta;28.4
+Seville;25.4
+Edinburgh;20.8
+Hamburg;-18.1
+Kuala Lumpur;22.9
+Madrid;38.6
+Chicago;-18.6
+Denver;24.6
+Amman;37.5
+Toronto;20.8
+Kabul;5.5
+Munich;11.7
+Hong Kong;-17.1
+Tokyo;22.0
+Beijing;27.7
+Salvador;7.7
+Ashgabat;41.8
+Reykjavik;36.1
+Boston;-27.8
+Muscat;-23.8
+Kuala Lumpur;-18.3
+Mexico City;42.6
+Berlin;25.0
+Yangon;25.0
+Boston;28.4
+Stockholm;-9.9
+Tashkent;-3.6
+Quito;20.7
+Mumbai;43.2
+Moscow;-10.4
+Yangon;4.7
+Seoul;-27.6
+Munich;20.6
+Montreal;27.7
+Moscow;33.2
+Tehran;-27.8
+Phoenix;2.5
+Baghdad;-12.5
+Belém;9.4
+Glasgow;1.9
+Munich;5.7
+Rome;-3.6
+Quito;23.8
+Helsinki;-17.3
+Manila;42.9
+Zurich;-21.0
+Dushanbe;6.8
+Buenos Aires;-6.7
+Melbourne;-14.2
+Kolkata;32.7
+Houston;32.2
+Frankfurt;38.5
+Nairobi;36.6
+Hong Kong;4.9
+Baghdad;2.7
+Madrid;12.7
+Delhi;-16.1
+Chicago;-16.0
+Kabul;-29.2
+Salvador;1.8
+Warsaw;1.7
+Munich;18.4
+Kathmandu;10.9
+Yangon;-6.8
+Ulaanbaatar;-10.7
+Istanbul;-13.4
+La Paz;41.4
+Delhi;2.5
+Brussels;4.6
+Porto Alegre;21.3
+Jerusalem;-15.8
+Mexico City;-4.1
+Santiago;-15.6
+Jerusalem;-5.1
+Stuttgart;-2.3
+Kolkata;31.2
+Moscow;6.5
+Dhaka;43.4
+Mexico City;-22.9
+Liverpool;13.5
+Manchester;-18.3
+Istanbul;28.2
+Belém;41.8
+Rome;22.8
+New York;-10.2
+Baghdad;-12.2
+Damascus;42.8
+San Francisco;34.1
+La Paz;-3.4
+Florence;38.5
+Mexico City;25.6
+Frankfurt;-22.9
+Reykjavik;35.3
+Reykjavik;8.3
+Baghdad;-4.2
+Berlin;2.4
+Kuwait City;9.5
+Porto Alegre;7.1
+Ho Chi Minh City;-17.4
+Austin;37.5
+Mumbai;-13.4
+Boston;10.5
+São Paulo;-23.6
+Istanbul;-17.6
+Milan;28.8
+Bangkok;-16.2
+Auckland;-4.2
+Cape Town;17.6
+Venice;9.9
+Salvador;23.5
+Geneva;26.2
+Brasília;36.1
+Budapest;6.4
+Mumbai;27.6
+Porto;13.7
+São Paulo;31.3
+Manchester;-7.7
+Dublin;29.1
+Pyongyang;39.1
+Amman;37.0
+San Francisco;1.0
+Athens;36.5
+Ankara;21.6
+Chicago;-23.9
+Frankfurt;-27.8
+Dublin;42.2
+Istanbul;44.7
+Florence;43.5
+La Paz;-21.6
+Muscat;-5.4
+New York;-3.1
+Amman;42.8
+Montreal;-15.4
+Lima;22.1
+Milan;-8.0
+Hanoi;26.9
+Liverpool;12.2
+Reykjavik;43.7
+Melbourne;34.8
+Cologne;-26.5
+Las Vegas;42.9
+Toronto;11.7
+Stuttgart;43.9
+Mexico City;37.2
+Hamburg;5.9
+London;19.1
+Delhi;42.7
+Bishkek;20.1
+Hong Kong;36.9
+Kabul;-25.3
+Yangon;-6.7
+Jerusalem;-14.4
+Manila;30.2
+Paris;-19.0
+São Paulo;22.2
+Seville;20.6
+Barcelona;-19.4
+Denver;24.2
+Warsaw;3.2
+Monterrey;-6.3
+Madrid;15.9
+Ashgabat;-22.2
+Belo Horizonte;35.2
+La Paz;17.2
+Moscow;8.9
+Liverpool;-19.1
+Valencia;-19.1
+Jerusalem;38.6
+Chicago;-29.9
+Singapore;34.5
+Tokyo;22.7
+Manaus;-20.6
+Istanbul;-13.4
+Milan;18.2
+Tehran;8.4
+Lima;16.2
+Los Angeles;38.8
+Bangalore;27.7
+Atlanta;36.5
+Stuttgart;15.6
+Portland;-27.0
+Sanaa;-6.3
+Bishkek;36.1
+Las Vegas;33.1
+Dublin;14.1
+Belo Horizonte;-29.2
+Porto;10.3
+Stuttgart;16.9
+Miami;44.2
+Istanbul;24.5
+Los Angeles;13.8
+Karachi;-29.8
+Shanghai;34.8
+London;42.9
+Seville;-18.4
+Amman;-1.8
+Paris;-4.8
+Toronto;38.9
+Auckland;-15.8
+Birmingham;-24.7
+Manchester;-2.4
+Ulaanbaatar;1.9
+Lagos;-10.6
+Kabul;2.6
+Baghdad;-2.2
+Doha;-5.8
+Curitiba;17.9
+Rio de Janeiro;-8.1
+Copenhagen;35.5
+Stockholm;44.9
+Milan;36.1
+Fortaleza;33.1
+Venice;20.0
+Dublin;23.5
+Lagos;-4.5
+Curitiba;-4.8
+Kathmandu;2.8
+Hong Kong;-15.8
+Rio de Janeiro;-8.7
+Budapest;30.1
+Belém;42.6
+Porto Alegre;18.1
+Phoenix;-1.7
+Monterrey;1.7
+Tehran;11.7
+Jerusalem;-13.7
+Mexico City;26.7
+Doha;-10.1
+Sanaa;27.8
+Curitiba;-19.5
+Beirut;-12.1
+Stockholm;27.1
+Vientiane;-20.2
+Colombo;-5.5
+London;10.5
+Austin;42.5
+Dubai;28.3
+Florence;-13.5
+Valencia;-4.1
+Oslo;1.7
+Lisbon;36.1
+Vientiane;-28.7
+Jerusalem;23.1
+Venice;0.9
+Stuttgart;4.0
+Bishkek;21.6
+Istanbul;-2.6
+Montreal;45.0
+Stuttgart;-29.6
+Warsaw;43.4
+Phoenix;27.4
+Kabul;16.7
+Birmingham;2.8
+Bogotá;14.5
+Mexico City;44.2
+Austin;9.4
+Doha;2.2
+Seoul;-29.5
+Ankara;2.7
+Frankfurt;34.3
+Bogotá;-9.4
+Recife;25.0
+Lisbon;15.1
+Manaus;29.6
+Auckland;-11.2
+Rio de Janeiro;36.1
+Kuala Lumpur;-23.2
+New York;-29.6
+Salvador;7.3
+Venice;36.8
+Beirut;7.1
+Belém;12.8
+Karachi;-25.6
+Phnom Penh;-22.0
+Dallas;-11.0
+Tehran;22.6
+Bogotá;18.8
+Denver;-15.2
+Copenhagen;-18.2
+Rio de Janeiro;-3.5
+San Francisco;35.0
+Bangkok;26.9
+Tehran;33.5
+Monterrey;-14.4
+Lisbon;-1.1
+San Francisco;18.8
+Oslo;-2.8
+Warsaw;3.9
+London;-20.7
+Shanghai;-26.6
+Bangalore;34.0
+Porto Alegre;36.8
+Muscat;27.4
+Chennai;15.7
+Riyadh;-0.9
+Oslo;35.9
+Recife;-9.3
+Houston;28.9
+Guadalajara;-15.1
+Montreal;9.0
+Bogotá;-0.4
+Doha;-9.5
+Bogotá;20.6
+Manila;-28.1
+Manchester;-14.7
+Guadalajara;17.3
+Buenos Aires;-9.3
+Barcelona;-28.5
+Portland;-23.4
+Guadalajara;-27.6
+Belém;6.8
+Brasília;28.3
+Busan;-19.0
+Salvador;-6.5
+Salvador;37.7
+Cape Town;0.2
+Manila;-23.8
+Manchester;-24.1
+Bogotá;-29.6
+Miami;13.3
+Bogotá;-5.8
+Shanghai;43.4
+Cairo;21.5
+Nairobi;21.0
+Manchester;-13.1
+Austin;28.6
+Lima;-8.0
+Tehran;35.4
+Porto Alegre;3.1
+Berlin;20.2
+Dushanbe;41.5
+Dubai;20.2
+Riyadh;-5.4
+Tehran;-3.0
+Prague;27.6
+London;6.2
+Quito;-16.0
+Dallas;-13.4
+Boston;1.3
+Caracas;-14.2
+Ulaanbaatar;-23.7
+Porto Alegre;6.6
+Istanbul;20.0
+Houston;11.9
+Naples;28.3
+Bangalore;-23.8
+Salvador;11.0
+Muscat;21.2
+Birmingham;33.2
+Muscat;17.9
+Bangkok;5.2
+Shanghai;0.4
+Seoul;14.3
+Singapore;44.0
+Denver;24.6
+Manila;17.5
+Denver;-8.3
+Hanoi;-2.8
+Beijing;33.5
+Berlin;-20.5
+Porto Alegre;35.4
+Lima;1.7
+Ulaanbaatar;39.1
+Barcelona;39.8
+Chennai;33.9
+Venice;-28.3
+Kabul;-25.1
+São Paulo;33.1
+Busan;5.5
+Kathmandu;21.4
+Doha;-18.6
+London;15.5
+Kabul;33.8
+Rome;18.5
+Kuwait City;39.5
+Stuttgart;33.3
+Brussels;-9.1
+Curitiba;-12.9
+Kuwait City;5.6
+Helsinki;-13.5
+Helsinki;41.1
+Guadalajara;34.0
+Belo Horizonte;-10.2
+Porto Alegre;40.2
+Milan;-14.4
+Austin;25.7
+Almaty;3.7
+Rio de Janeiro;-0.5
+Dallas;-18.9
+Quito;12.5
+São Paulo;29.1
+Shanghai;13.2
+Athens;-26.3
+Phnom Penh;30.9
+Ulaanbaatar;30.9
+Dushanbe;21.2
+Phnom Penh;-12.3
+Phnom Penh;9.3
+Dallas;28.0
+Ulaanbaatar;15.6
+Bogotá;28.1
+Nairobi;-9.5
+London;26.7
+Zurich;5.8
+San Francisco;25.4
+Kuala Lumpur;36.1
+Bogotá;-13.9
+Singapore;-16.6
+Singapore;-14.2
+Vienna;-14.7
+Manaus;31.1
+Sanaa;21.6
+Brasília;10.8
+Belo Horizonte;-2.5
+Monterrey;-2.8
+Delhi;-28.2
+Beijing;31.3
+Athens;17.9
+Lisbon;-15.1
+Dublin;-25.3
+Jakarta;22.1
+Florence;12.3
+Baghdad;-16.8
+Manaus;5.0
+La Paz;35.4
+Kathmandu;42.2
+Phoenix;37.6
+Dallas;-7.7
+Dhaka;-8.5
+Vientiane;0.4
+Seville;-2.1
+Paris;41.7
+Ankara;-26.4
+Belo Horizonte;-14.9
+Rome;15.8
+Monterrey;38.9
+Istanbul;28.9
+Amsterdam;25.7
+Beirut;4.4
+Monterrey;35.4
+Rome;22.9
